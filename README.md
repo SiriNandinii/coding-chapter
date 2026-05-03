@@ -21,7 +21,12 @@ This repository contains all the DSA problems I solve daily as part of my coding
 
 ## 📅 Daily Grind
 
-I will keep updating this repository regularly with new problems and solutions. 🚀
+I will keep updating this repository regularly with new problems and solutions. 
 
 > “Consistency beats intensity.” 🔥
 
+## 🌟 Let's Connect
+
+If you're also solving LeetCode problems daily, feel free to explore the repository and learn together! 
+
+Happy Coding! 💻✨
