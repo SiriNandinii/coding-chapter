@@ -19,11 +19,6 @@ This repository contains all the DSA problems I solve daily as part of my coding
 - Prepare for coding interviews
 - Maintain coding consistency every single day 💪
 
-## 🛠️ Languages Used
-
-- 🐍 Python
-- (More languages may be added later)
-
 ## 📅 Daily Grind
 
 I will keep updating this repository regularly with new problems and solutions. 🚀
