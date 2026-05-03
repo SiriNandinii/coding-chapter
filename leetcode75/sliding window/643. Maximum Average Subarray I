@@ -1,0 +1,75 @@
+"""
+643. Maximum Average Subarray I
+Easy
+
+Problem:
+Given an integer array nums and an integer k,
+find a contiguous subarray of length k
+that has the maximum average value.
+
+Return the maximum average.
+
+--------------------------------------------------------
+
+Example 1:
+Input:
+nums = [1,12,-5,-6,50,3]
+k = 4
+
+Output:
+12.75
+
+Explanation:
+Maximum average =
+(12 - 5 - 6 + 50) / 4
+= 51 / 4
+= 12.75
+
+--------------------------------------------------------
+
+Example 2:
+Input:
+nums = [5]
+k = 1
+
+Output:
+5.0
+
+--------------------------------------------------------
+
+Approach:
+Sliding Window
+
+- Compute sum of first k elements
+- Slide window:
+    remove left element
+    add new right element
+- Track maximum sum
+
+--------------------------------------------------------
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+"""
+
+from typing import List
+
+
+class Solution:
+    def findMaxAverage(self, nums: List[int], k: int) -> float:
+
+        current_sum = sum(nums[:k])
+
+        maximum = current_sum
+
+        for i in range(k, len(nums)):
+
+            current_sum = (
+                current_sum
+                - nums[i - k]
+                + nums[i]
+            )
+
+            maximum = max(maximum, current_sum)
+
+        return maximum / k
