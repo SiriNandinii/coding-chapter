@@ -1,0 +1,130 @@
+"""
+3742. Maximum Path Score in a Grid
+Medium
+
+Problem:
+You are given an m x n grid where each cell contains
+one of the values 0, 1, or 2.
+
+You are also given an integer k.
+
+You start from the top-left corner (0, 0)
+and want to reach the bottom-right corner
+(m - 1, n - 1) by moving only right or down.
+
+Cell values:
+0 -> score +0, cost +0
+1 -> score +1, cost +1
+2 -> score +2, cost +1
+
+Return the maximum score achievable without
+exceeding total cost k.
+
+If no valid path exists, return -1.
+
+--------------------------------------------------------
+
+Example 1:
+Input:
+grid = [[0,1],
+        [2,0]]
+k = 1
+
+Output:
+2
+
+Explanation:
+Optimal path:
+(0,0) -> (1,0) -> (1,1)
+
+Score = 2
+Cost = 1
+
+--------------------------------------------------------
+
+Example 2:
+Input:
+grid = [[0,1],
+        [1,2]]
+k = 1
+
+Output:
+-1
+
+Explanation:
+No valid path exists within cost k.
+
+--------------------------------------------------------
+
+Constraints:
+1 <= m, n <= 200
+0 <= k <= 1000
+grid[i][j] in {0,1,2}
+
+--------------------------------------------------------
+
+Approach:
+Dynamic Programming
+
+dp[i][j][c] =
+maximum score possible at cell (i,j)
+using total cost c
+
+Transitions:
+- Move right
+- Move down
+
+Update score and cost accordingly.
+
+--------------------------------------------------------
+
+Time Complexity:
+O(m * n * k)
+
+Space Complexity:
+O(m * n * k)
+"""
+
+
+class Solution:
+    def maxPathScore(self, grid, k):
+        m, n = len(grid), len(grid[0])
+
+        # dp[i][j][c] = max score at (i,j) with cost c
+        dp = [[[-1] * (k + 1) for _ in range(n)] for _ in range(m)]
+
+        start_cost = 1 if grid[0][0] != 0 else 0
+
+        if start_cost <= k:
+            dp[0][0][start_cost] = grid[0][0]
+
+        for i in range(m):
+            for j in range(n):
+                for c in range(k + 1):
+
+                    if dp[i][j][c] == -1:
+                        continue
+
+                    # Move Down
+                    if i + 1 < m:
+                        nc = c + (1 if grid[i + 1][j] != 0 else 0)
+
+                        if nc <= k:
+                            dp[i + 1][j][nc] = max(
+                                dp[i + 1][j][nc],
+                                dp[i][j][c] + grid[i + 1][j]
+                            )
+
+                    # Move Right
+                    if j + 1 < n:
+                        nc = c + (1 if grid[i][j + 1] != 0 else 0)
+
+                        if nc <= k:
+                            dp[i][j + 1][nc] = max(
+                                dp[i][j + 1][nc],
+                                dp[i][j][c] + grid[i][j + 1]
+                            )
+
+        ans = max(dp[m - 1][n - 1])
+
+        return ans if ans != -1 else -1
