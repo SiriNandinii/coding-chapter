@@ -1,0 +1,64 @@
+"""
+151. Reverse Words in a String
+Medium
+
+Problem:
+Given a string s,
+reverse the order of the words.
+
+Words are separated by spaces.
+
+The returned string should:
+- contain words in reverse order
+- contain only single spaces
+- have no leading or trailing spaces
+
+--------------------------------------------------------
+
+Example 1:
+Input:
+s = "the sky is blue"
+
+Output:
+"blue is sky the"
+
+--------------------------------------------------------
+
+Example 2:
+Input:
+s = "  hello world  "
+
+Output:
+"world hello"
+
+--------------------------------------------------------
+
+Example 3:
+Input:
+s = "a good   example"
+
+Output:
+"example good a"
+
+--------------------------------------------------------
+
+Approach:
+- Split string into words
+- Reverse the list
+- Join words with single space
+
+--------------------------------------------------------
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+"""
+
+
+class Solution:
+    def reverseWords(self, s: str) -> str:
+
+        s = s.split()
+
+        s.reverse()
+
+        return " ".join(s)
