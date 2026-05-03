@@ -1,0 +1,79 @@
+"""
+2833. Furthest Point From Origin
+Easy
+
+Problem:
+You are given a string moves consisting of:
+'L', 'R', and '_'.
+
+You start from position 0 on a number line.
+
+Rules:
+- 'L' -> move left
+- 'R' -> move right
+- '_' -> can be either left or right
+
+Return the maximum possible distance
+from the origin after all moves.
+
+--------------------------------------------------------
+
+Example 1:
+Input: moves = "L_RL__R"
+Output: 3
+
+Explanation:
+One possible sequence:
+"LLRLLLR"
+
+Final position = -3
+Distance from origin = 3
+
+--------------------------------------------------------
+
+Example 2:
+Input: moves = "_R__LL_"
+Output: 5
+
+--------------------------------------------------------
+
+Example 3:
+Input: moves = "_______"
+Output: 7
+
+--------------------------------------------------------
+
+Constraints:
+1 <= moves.length <= 50
+
+--------------------------------------------------------
+
+Approach:
+- Count:
+    L = number of left moves
+    R = number of right moves
+    _ = flexible moves
+
+- Current distance:
+    abs(R - L)
+
+- To maximize distance:
+    use all '_' moves in the same direction
+
+Final Answer:
+    abs(R - L) + _
+
+--------------------------------------------------------
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+"""
+
+
+class Solution:
+    def furthestDistanceFromOrigin(self, moves: str) -> int:
+        L = moves.count('L')
+        R = moves.count('R')
+        U = moves.count('_')
+
+        return abs(R - L) + U
