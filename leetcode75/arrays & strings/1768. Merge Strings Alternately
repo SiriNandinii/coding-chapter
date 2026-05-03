@@ -1,0 +1,82 @@
+"""
+1768. Merge Strings Alternately
+Easy
+
+Problem:
+You are given two strings word1 and word2.
+
+Merge the strings by adding letters in alternating order,
+starting with word1.
+
+If one string is longer than the other,
+append the remaining letters to the end.
+
+Return the merged string.
+
+--------------------------------------------------------
+
+Example 1:
+Input:
+word1 = "abc"
+word2 = "pqr"
+
+Output:
+"apbqcr"
+
+--------------------------------------------------------
+
+Example 2:
+Input:
+word1 = "ab"
+word2 = "pqrs"
+
+Output:
+"apbqrs"
+
+--------------------------------------------------------
+
+Example 3:
+Input:
+word1 = "abcd"
+word2 = "pq"
+
+Output:
+"apbqcd"
+
+--------------------------------------------------------
+
+Constraints:
+1 <= word1.length, word2.length <= 100
+
+--------------------------------------------------------
+
+Approach:
+- Find smaller and larger string
+- Alternate characters from both strings
+- Append remaining characters from longer string
+
+--------------------------------------------------------
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+"""
+
+
+class Solution:
+    def mergeAlternately(self, word1: str, word2: str) -> str:
+
+        if len(word1) > len(word2):
+            maxi = word1
+            mini = word2
+        else:
+            mini = word1
+            maxi = word2
+
+        res = ""
+
+        for i in range(len(mini)):
+            res += word1[i] + word2[i]
+
+        res += maxi[len(mini):]
+
+        return res
