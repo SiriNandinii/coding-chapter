@@ -1,0 +1,90 @@
+"""
+1456. Maximum Number of Vowels in a Substring of Given Length
+Medium
+
+Problem:
+Given a string s and integer k,
+return the maximum number of vowels
+in any substring of length k.
+
+Vowels:
+a, e, i, o, u
+
+--------------------------------------------------------
+
+Example 1:
+Input:
+s = "abciiidef"
+k = 3
+
+Output:
+3
+
+Explanation:
+Substring "iii" contains 3 vowels.
+
+--------------------------------------------------------
+
+Example 2:
+Input:
+s = "aeiou"
+k = 2
+
+Output:
+2
+
+--------------------------------------------------------
+
+Example 3:
+Input:
+s = "leetcode"
+k = 3
+
+Output:
+2
+
+--------------------------------------------------------
+
+Approach:
+Sliding Window
+
+- Count vowels in first window
+- Slide window:
+    remove left character
+    add right character
+- Track maximum vowels count
+
+--------------------------------------------------------
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+"""
+
+
+class Solution:
+    def maxVowels(self, s: str, k: int) -> int:
+
+        vowels = "aeiou"
+
+        current_count = 0
+
+        # First window
+        for ch in s[:k]:
+
+            if ch in vowels:
+                current_count += 1
+
+        maximum = current_count
+
+        # Sliding window
+        for i in range(k, len(s)):
+
+            if s[i - k] in vowels:
+                current_count -= 1
+
+            if s[i] in vowels:
+                current_count += 1
+
+            maximum = max(maximum, current_count)
+
+        return maximum
