@@ -1,0 +1,69 @@
+"""
+345. Reverse Vowels of a String
+Easy
+
+Problem:
+Given a string s,
+reverse only the vowels in the string.
+
+Vowels:
+a, e, i, o, u (both lowercase and uppercase)
+
+--------------------------------------------------------
+
+Example 1:
+Input:
+s = "IceCreAm"
+
+Output:
+"AceCreIm"
+
+--------------------------------------------------------
+
+Example 2:
+Input:
+s = "leetcode"
+
+Output:
+"leotcede"
+
+--------------------------------------------------------
+
+Approach:
+Two Pointers
+
+- Use left and right pointers.
+- Move pointers until vowels are found.
+- Swap vowels.
+- Continue until pointers meet.
+
+--------------------------------------------------------
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+"""
+
+
+class Solution:
+    def reverseVowels(self, s: str) -> str:
+
+        s = list(s)
+
+        vowels = "aeiouAEIOU"
+
+        left, right = 0, len(s) - 1
+
+        while left < right:
+
+            while left < right and s[left] not in vowels:
+                left += 1
+
+            while left < right and s[right] not in vowels:
+                right -= 1
+
+            s[left], s[right] = s[right], s[left]
+
+            left += 1
+            right -= 1
+
+        return "".join(s)
