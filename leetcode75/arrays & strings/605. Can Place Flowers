@@ -1,0 +1,74 @@
+"""
+605. Can Place Flowers
+Easy
+
+Problem:
+You have a flowerbed containing 0s and 1s.
+
+0 -> empty
+1 -> flower planted
+
+Flowers cannot be planted in adjacent plots.
+
+Return True if n flowers can be planted
+without violating the rule.
+
+--------------------------------------------------------
+
+Example 1:
+Input:
+flowerbed = [1,0,0,0,1]
+n = 1
+
+Output:
+True
+
+--------------------------------------------------------
+
+Example 2:
+Input:
+flowerbed = [1,0,0,0,1]
+n = 2
+
+Output:
+False
+
+--------------------------------------------------------
+
+Approach:
+- Check each position.
+- Flower can be planted if:
+    current == 0
+    left == 0 or edge
+    right == 0 or edge
+- Plant flower and decrease n.
+
+--------------------------------------------------------
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+"""
+
+from typing import List
+
+
+class Solution:
+    def canPlaceFlowers(
+        self,
+        flowerbed: List[int],
+        n: int
+    ) -> bool:
+
+        for i, value in enumerate(flowerbed):
+
+            left = (i == 0) or (flowerbed[i - 1] == 0)
+            right = (
+                i == len(flowerbed) - 1
+                or flowerbed[i + 1] == 0
+            )
+
+            if value == 0 and left and right and n > 0:
+                flowerbed[i] = 1
+                n -= 1
+
+        return n == 0
