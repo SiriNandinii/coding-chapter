@@ -1,0 +1,64 @@
+"""
+392. Is Subsequence
+Easy
+
+Problem:
+Given two strings s and t,
+return True if s is a subsequence of t,
+otherwise return False.
+
+A subsequence is formed by deleting characters
+without changing relative order.
+
+--------------------------------------------------------
+
+Example 1:
+Input:
+s = "abc"
+t = "ahbgdc"
+
+Output:
+True
+
+--------------------------------------------------------
+
+Example 2:
+Input:
+s = "axc"
+t = "ahbgdc"
+
+Output:
+False
+
+--------------------------------------------------------
+
+Approach:
+Two Pointers
+
+- Traverse both strings.
+- If characters match:
+    move pointer in s
+- Always move pointer in t
+- If all characters of s are matched:
+    return True
+
+--------------------------------------------------------
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+"""
+
+
+class Solution:
+    def isSubsequence(self, s: str, t: str) -> bool:
+
+        i, j = 0, 0
+
+        while i < len(s) and j < len(t):
+
+            if s[i] == t[j]:
+                i += 1
+
+            j += 1
+
+        return i == len(s)
