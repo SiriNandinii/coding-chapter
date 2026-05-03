@@ -1,0 +1,76 @@
+"""
+11. Container With Most Water
+Medium
+
+Problem:
+Given an array height where each element
+represents vertical lines on the x-axis.
+
+Find two lines that together form a container
+holding the maximum amount of water.
+
+--------------------------------------------------------
+
+Example 1:
+Input:
+height = [1,8,6,2,5,4,8,3,7]
+
+Output:
+49
+
+--------------------------------------------------------
+
+Example 2:
+Input:
+height = [1,1]
+
+Output:
+1
+
+--------------------------------------------------------
+
+Approach:
+Two Pointers
+
+- Start from both ends.
+- Compute area:
+    width * min(height[left], height[right])
+- Move smaller height inward
+  to try maximizing area.
+
+--------------------------------------------------------
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+"""
+
+from typing import List
+
+
+class Solution:
+    def maxArea(self, height: List[int]) -> int:
+
+        left = 0
+        right = len(height) - 1
+
+        maximum = 0
+
+        while left < right:
+
+            width = right - left
+
+            current_height = min(
+                height[left],
+                height[right]
+            )
+
+            area = width * current_height
+
+            maximum = max(maximum, area)
+
+            if height[left] < height[right]:
+                left += 1
+            else:
+                right -= 1
+
+        return maximum
