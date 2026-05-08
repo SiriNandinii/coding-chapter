@@ -1,0 +1,68 @@
+"""
+1732. Find the Highest Altitude
+Easy
+
+Problem:
+A biker starts at altitude 0.
+
+You are given an integer array gain where:
+gain[i] represents the net altitude gain
+between points i and i + 1.
+
+Return the highest altitude reached.
+
+--------------------------------------------------------
+
+Example 1:
+Input:
+gain = [-5,1,5,0,-7]
+
+Output:
+1
+
+Explanation:
+Altitudes become:
+[0, -5, -4, 1, 1, -6]
+
+Highest altitude = 1
+
+--------------------------------------------------------
+
+Example 2:
+Input:
+gain = [-4,-3,-2,-1,4,3,2]
+
+Output:
+0
+
+--------------------------------------------------------
+
+Approach:
+Prefix Sum
+
+- Start altitude at 0
+- Continuously add gains
+- Track maximum altitude reached
+
+--------------------------------------------------------
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+"""
+
+from typing import List
+
+
+class Solution:
+    def largestAltitude(self, gain: List[int]) -> int:
+
+        altitude = 0
+        maximum = 0
+
+        for g in gain:
+
+            altitude += g
+
+            maximum = max(maximum, altitude)
+
+        return maximum
