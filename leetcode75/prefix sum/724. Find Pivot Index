@@ -1,0 +1,88 @@
+"""
+724. Find Pivot Index
+Easy
+
+Problem:
+Given an integer array nums,
+return the pivot index.
+
+Pivot index:
+- Sum of elements to the left
+  equals
+- Sum of elements to the right
+
+Return the leftmost pivot index.
+If none exists, return -1.
+
+--------------------------------------------------------
+
+Example 1:
+Input:
+nums = [1,7,3,6,5,6]
+
+Output:
+3
+
+Explanation:
+Left sum:
+1 + 7 + 3 = 11
+
+Right sum:
+5 + 6 = 11
+
+--------------------------------------------------------
+
+Example 2:
+Input:
+nums = [1,2,3]
+
+Output:
+-1
+
+--------------------------------------------------------
+
+Example 3:
+Input:
+nums = [2,1,-1]
+
+Output:
+0
+
+--------------------------------------------------------
+
+Approach:
+Prefix Sum
+
+- Calculate total sum
+- Keep running left sum
+- Right sum =
+    total - left - nums[i]
+
+- If left == right:
+    return index
+
+--------------------------------------------------------
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+"""
+
+from typing import List
+
+
+class Solution:
+    def pivotIndex(self, nums: List[int]) -> int:
+        total = sum(nums)
+
+        left = 0
+
+        for i in range(len(nums)):
+
+            right = total - left - nums[i]
+
+            if left == right:
+                return i
+
+            left += nums[i]
+
+        return -1
