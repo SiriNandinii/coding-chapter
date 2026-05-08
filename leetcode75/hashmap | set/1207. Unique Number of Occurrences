@@ -65,15 +65,11 @@ Time Complexity: O(n)
 Space Complexity: O(n)
 """
 
-from typing import List
 from collections import Counter
-
 
 class Solution:
     def uniqueOccurrences(self, arr: List[int]) -> bool:
-
         freq = Counter(arr)
-
         return len(freq.values()) == len(set(freq.values()))
 
 
@@ -82,17 +78,11 @@ Brute Force Solution:
 
 class Solution:
     def uniqueOccurrences(self, arr: List[int]) -> bool:
-
         distinct_values = list(set(arr))
-
         arr.sort()
-
         rep = []
-
         for i in distinct_values:
             rep.append(arr.count(i))
-
         dist_rep = list(set(rep))
-
         return len(dist_rep) == len(rep)
 """
