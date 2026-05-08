@@ -1,0 +1,98 @@
+"""
+1207. Unique Number of Occurrences
+Easy
+
+Problem:
+Given an integer array arr,
+return True if the number of occurrences
+of each value is unique,
+otherwise return False.
+
+--------------------------------------------------------
+
+Example 1:
+Input:
+arr = [1,2,2,1,1,3]
+
+Output:
+True
+
+Explanation:
+1 occurs 3 times
+2 occurs 2 times
+3 occurs 1 time
+
+All frequencies are unique.
+
+--------------------------------------------------------
+
+Example 2:
+Input:
+arr = [1,2]
+
+Output:
+False
+
+--------------------------------------------------------
+
+Example 3:
+Input:
+arr = [-3,0,1,-3,1,1,1,-3,10,0]
+
+Output:
+True
+
+--------------------------------------------------------
+
+Brute Force Approach:
+- Find distinct values
+- Count occurrences of each value
+- Store frequencies in a list
+- Compare size of list and set
+
+Time Complexity: O(n²)
+Space Complexity: O(n)
+
+--------------------------------------------------------
+
+Optimal Approach:
+- Use Counter to store frequencies
+- Convert frequencies into set
+- If lengths are same:
+    all frequencies are unique
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+"""
+
+from typing import List
+from collections import Counter
+
+
+class Solution:
+    def uniqueOccurrences(self, arr: List[int]) -> bool:
+
+        freq = Counter(arr)
+
+        return len(freq.values()) == len(set(freq.values()))
+
+
+"""
+Brute Force Solution:
+
+class Solution:
+    def uniqueOccurrences(self, arr: List[int]) -> bool:
+
+        distinct_values = list(set(arr))
+
+        arr.sort()
+
+        rep = []
+
+        for i in distinct_values:
+            rep.append(arr.count(i))
+
+        dist_rep = list(set(rep))
+
+        return len(dist_rep) == len(rep)
+"""
