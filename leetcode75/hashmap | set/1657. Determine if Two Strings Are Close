@@ -1,0 +1,80 @@
+"""
+1657. Determine if Two Strings Are Close
+Medium
+
+Problem:
+Two strings are considered close if you can transform
+one into the other using these operations:
+
+1. Swap any two existing characters
+2. Transform every occurrence of one character into another
+   existing character and vice versa
+
+Return True if the strings are close,
+otherwise return False.
+
+--------------------------------------------------------
+
+Example 1:
+Input:
+word1 = "abc"
+word2 = "bca"
+
+Output:
+True
+
+--------------------------------------------------------
+
+Example 2:
+Input:
+word1 = "a"
+word2 = "aa"
+
+Output:
+False
+
+--------------------------------------------------------
+
+Example 3:
+Input:
+word1 = "cabbba"
+word2 = "abbccc"
+
+Output:
+True
+
+--------------------------------------------------------
+
+Approach:
+Using Frequency Counting
+
+Two strings are close if:
+1. They contain the same unique characters
+2. Their frequency counts can be rearranged to match
+
+Example:
+word1 frequencies -> [1,2,3]
+word2 frequencies -> [3,2,1]
+
+These are valid because frequencies can swap.
+
+--------------------------------------------------------
+
+Time Complexity: O(n log n)
+Space Complexity: O(1)
+"""
+
+from collections import Counter
+
+
+class Solution:
+    def closeStrings(self, word1: str, word2: str) -> bool:
+
+        freq1 = Counter(word1)
+        freq2 = Counter(word2)
+
+        return (
+            freq1.keys() == freq2.keys()
+            and
+            sorted(freq1.values()) == sorted(freq2.values())
+        )
