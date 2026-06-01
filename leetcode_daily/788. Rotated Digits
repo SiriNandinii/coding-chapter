@@ -1,0 +1,84 @@
+"""
+788. Rotated Digits
+Medium
+
+Problem:
+An integer x is considered good if after rotating each digit
+individually by 180 degrees, we get a valid number that is
+different from x.
+
+Valid rotations:
+0 -> 0
+1 -> 1
+8 -> 8
+2 <-> 5
+6 <-> 9
+
+Digits 3, 4, and 7 become invalid after rotation.
+
+Given an integer n, return the number of good integers
+in the range [1, n].
+
+--------------------------------------------------------
+
+Example 1:
+Input: n = 10
+Output: 4
+
+Explanation:
+Good numbers are: 2, 5, 6, 9
+
+--------------------------------------------------------
+
+Example 2:
+Input: n = 1
+Output: 0
+
+--------------------------------------------------------
+
+Example 3:
+Input: n = 2
+Output: 1
+
+--------------------------------------------------------
+
+Constraints:
+1 <= n <= 10^4
+
+--------------------------------------------------------
+
+Approach:
+- Digits allowed after rotation:
+  0, 1, 2, 5, 6, 8, 9
+
+- Digits that actually change the number:
+  2, 5, 6, 9
+
+- For every number from 1 to n:
+    * Check if all digits are valid
+    * Check if at least one digit changes
+- Count such numbers
+
+--------------------------------------------------------
+
+Time Complexity: O(n * d)
+where d is number of digits
+
+Space Complexity: O(1)
+"""
+
+
+class Solution:
+    def rotatedDigits(self, n: int) -> int:
+        valid = {'0', '1', '2', '5', '6', '8', '9'}
+        change = {'2', '5', '6', '9'}
+
+        count = 0
+
+        for num in range(1, n + 1):
+            s = str(num)
+
+            if all(ch in valid for ch in s) and any(ch in change for ch in s):
+                count += 1
+
+        return count
