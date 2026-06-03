@@ -1,0 +1,79 @@
+"""
+27. Remove Element
+Easy
+
+Problem:
+Given an integer array nums and an integer val,
+remove all occurrences of val in-place.
+
+The order of elements may be changed.
+
+Return k, where k is the number of elements
+that are not equal to val.
+
+The first k elements of nums should contain
+the remaining elements.
+
+--------------------------------------------------------
+
+Example 1:
+Input:
+nums = [3,2,2,3]
+val = 3
+
+Output:
+2
+
+Explanation:
+nums becomes [2,2,_,_]
+Return k = 2
+
+--------------------------------------------------------
+
+Example 2:
+Input:
+nums = [0,1,2,2,3,0,4,2]
+val = 2
+
+Output:
+5
+
+Explanation:
+nums becomes [0,1,4,0,3,_,_,_]
+Return k = 5
+
+--------------------------------------------------------
+
+Approach:
+Two Pointers
+
+- Use pointer k to track the next position
+  for a valid element.
+- Traverse nums:
+    if element != val:
+        place it at nums[k]
+        increment k
+- Return k.
+
+--------------------------------------------------------
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+"""
+
+
+from typing import List
+
+
+class Solution:
+    def removeElement(self, nums: List[int], val: int) -> int:
+
+        k = 0
+
+        for num in nums:
+
+            if num != val:
+                nums[k] = num
+                k += 1
+
+        return k
