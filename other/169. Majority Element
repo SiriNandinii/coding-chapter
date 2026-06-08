@@ -1,0 +1,12 @@
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        unique = list(set(nums))
+        maxi = 0
+        ans = nums[0]
+        for num in unique:
+            n =  nums.count(num)
+            if n>maxi:
+                maxi = n
+                ans = num
+        
+        return ans
