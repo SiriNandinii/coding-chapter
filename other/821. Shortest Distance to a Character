@@ -1,0 +1,18 @@
+class Solution:
+    def shortestToChar(self, s: str, c: str) -> List[int]:
+        s = [*s]
+        c_positions = [i for i in range(len(s)) if s[i]==c]
+        
+        def find_dist(letter):
+            mini = len(s)
+            for ch_p in c_positions:
+                dist = abs(ch_p - letter)
+                mini = min(mini, dist)
+            return mini
+        
+        ans = []
+        
+        for k in range(len(s)):
+            ans.append(find_dist(k))
+
+        return ans
