@@ -292,9 +292,9 @@ Happy Coding! 💻✨
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SiriNandinii/coding-chapter/tree/master/3661-maximum-walls-destroyed-by-robots) |
-| [3689-maximum-total-subarray-value-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SiriNandinii/coding-chapter/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -354,7 +354,6 @@ Happy Coding! 💻✨
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
-| [3689-maximum-total-subarray-value-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Binary Search
 |  |
@@ -416,6 +415,7 @@ Happy Coding! 💻✨
 | [3488-closest-equal-element-queries](https://github.com/SiriNandinii/coding-chapter/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SiriNandinii/coding-chapter/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sliding Window
