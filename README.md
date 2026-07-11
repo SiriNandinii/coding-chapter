@@ -110,7 +110,7 @@ Happy Coding! 💻✨
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SiriNandinii/coding-chapter/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
-| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SiriNandinii/coding-chapter/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -295,6 +295,7 @@ Happy Coding! 💻✨
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SiriNandinii/coding-chapter/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -412,6 +413,7 @@ Happy Coding! 💻✨
 | [3548-equal-sum-grid-partition-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SiriNandinii/coding-chapter/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sliding Window
 |  |
 | ------- |
