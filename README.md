@@ -257,6 +257,7 @@ Happy Coding! 💻✨
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SiriNandinii/coding-chapter/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Two Pointers
 |  |
 | ------- |
@@ -511,6 +512,7 @@ Happy Coding! 💻✨
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SiriNandinii/coding-chapter/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SiriNandinii/coding-chapter/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -569,6 +571,7 @@ Happy Coding! 💻✨
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SiriNandinii/coding-chapter/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2906-construct-product-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SiriNandinii/coding-chapter/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SiriNandinii/coding-chapter/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Enumeration
 |  |
 | ------- |
