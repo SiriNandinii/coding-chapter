@@ -110,6 +110,7 @@ Happy Coding! 💻✨
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SiriNandinii/coding-chapter/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SiriNandinii/coding-chapter/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
@@ -160,6 +161,7 @@ Happy Coding! 💻✨
 | [3474-lexicographically-smallest-generated-string](https://github.com/SiriNandinii/coding-chapter/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3614-process-string-with-special-operations-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/SiriNandinii/coding-chapter/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
@@ -682,6 +684,7 @@ Happy Coding! 💻✨
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Enumeration
 |  |
 | ------- |
