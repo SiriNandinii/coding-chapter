@@ -129,6 +129,7 @@ Happy Coding! 💻✨
 | [0169-majority-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/SiriNandinii/coding-chapter/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -306,4 +307,8 @@ Happy Coding! 💻✨
 | ------- |
 | [0175-combine-two-tables](https://github.com/SiriNandinii/coding-chapter/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/SiriNandinii/coding-chapter/tree/master/0181-employees-earning-more-than-their-managers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/SiriNandinii/coding-chapter/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
