@@ -73,6 +73,7 @@ Happy Coding! 💻✨
 | [0032-longest-valid-parentheses](https://github.com/SiriNandinii/coding-chapter/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SiriNandinii/coding-chapter/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/SiriNandinii/coding-chapter/tree/master/0044-wildcard-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -115,6 +116,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SiriNandinii/coding-chapter/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/SiriNandinii/coding-chapter/tree/master/0044-wildcard-matching) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 ## Binary Search
 |  |
@@ -175,12 +177,14 @@ Happy Coding! 💻✨
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SiriNandinii/coding-chapter/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SiriNandinii/coding-chapter/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/SiriNandinii/coding-chapter/tree/master/0044-wildcard-matching) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SiriNandinii/coding-chapter/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SiriNandinii/coding-chapter/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SiriNandinii/coding-chapter/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/SiriNandinii/coding-chapter/tree/master/0044-wildcard-matching) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
