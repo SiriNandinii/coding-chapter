@@ -62,10 +62,12 @@ Happy Coding! 💻✨
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0027-remove-element) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0151-reverse-words-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/SiriNandinii/coding-chapter/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
