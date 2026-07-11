@@ -52,11 +52,11 @@ Happy Coding! 💻✨
 ## Math
 |  |
 | ------- |
-| [0009-palindrome-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0009-palindrome-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/SiriNandinii/coding-chapter/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
