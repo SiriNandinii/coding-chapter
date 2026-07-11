@@ -185,6 +185,7 @@ Happy Coding! 💻✨
 | [1266-minimum-time-visiting-all-points](https://github.com/SiriNandinii/coding-chapter/tree/master/1266-minimum-time-visiting-all-points) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SiriNandinii/coding-chapter/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/SiriNandinii/coding-chapter/tree/master/1288-remove-covered-intervals) |
+| [1301-number-of-paths-with-max-score](https://github.com/SiriNandinii/coding-chapter/tree/master/1301-number-of-paths-with-max-score) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
@@ -339,6 +340,7 @@ Happy Coding! 💻✨
 | [0396-rotate-function](https://github.com/SiriNandinii/coding-chapter/tree/master/0396-rotate-function) |
 | [0837-new-21-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0837-new-21-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SiriNandinii/coding-chapter/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1301-number-of-paths-with-max-score](https://github.com/SiriNandinii/coding-chapter/tree/master/1301-number-of-paths-with-max-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -370,6 +372,7 @@ Happy Coding! 💻✨
 | [0498-diagonal-traverse](https://github.com/SiriNandinii/coding-chapter/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/SiriNandinii/coding-chapter/tree/master/0661-image-smoother) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SiriNandinii/coding-chapter/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1301-number-of-paths-with-max-score](https://github.com/SiriNandinii/coding-chapter/tree/master/1301-number-of-paths-with-max-score) |
 ## Monotonic Stack
 |  |
 | ------- |
