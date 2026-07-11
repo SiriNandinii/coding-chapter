@@ -59,6 +59,7 @@ Happy Coding! 💻✨
 | [0048-rotate-image](https://github.com/SiriNandinii/coding-chapter/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/SiriNandinii/coding-chapter/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SiriNandinii/coding-chapter/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/SiriNandinii/coding-chapter/tree/master/0067-add-binary) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -79,6 +80,7 @@ Happy Coding! 💻✨
 | [0044-wildcard-matching](https://github.com/SiriNandinii/coding-chapter/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/SiriNandinii/coding-chapter/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/SiriNandinii/coding-chapter/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -247,8 +249,13 @@ Happy Coding! 💻✨
 | ------- |
 | [0043-multiply-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/SiriNandinii/coding-chapter/tree/master/0067-add-binary) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SiriNandinii/coding-chapter/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/SiriNandinii/coding-chapter/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
