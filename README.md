@@ -65,6 +65,7 @@ Happy Coding! 💻✨
 | [0012-integer-to-roman](https://github.com/SiriNandinii/coding-chapter/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SiriNandinii/coding-chapter/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SiriNandinii/coding-chapter/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/SiriNandinii/coding-chapter/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -113,4 +114,8 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SiriNandinii/coding-chapter/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SiriNandinii/coding-chapter/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
