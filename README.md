@@ -77,6 +77,7 @@ Happy Coding! 💻✨
 | [0043-multiply-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/SiriNandinii/coding-chapter/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/SiriNandinii/coding-chapter/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0065-valid-number) |
 | [0151-reverse-words-in-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
