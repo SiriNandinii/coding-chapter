@@ -83,6 +83,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SiriNandinii/coding-chapter/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SiriNandinii/coding-chapter/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0345-reverse-vowels-of-a-string) |
@@ -118,4 +119,8 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SiriNandinii/coding-chapter/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SiriNandinii/coding-chapter/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
