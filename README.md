@@ -131,6 +131,7 @@ Happy Coding! 💻✨
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SiriNandinii/coding-chapter/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SiriNandinii/coding-chapter/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/SiriNandinii/coding-chapter/tree/master/1768-merge-strings-alternately) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SiriNandinii/coding-chapter/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SiriNandinii/coding-chapter/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Array
 |  |
@@ -218,6 +219,7 @@ Happy Coding! 💻✨
 | [1861-rotating-the-box](https://github.com/SiriNandinii/coding-chapter/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SiriNandinii/coding-chapter/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SiriNandinii/coding-chapter/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SiriNandinii/coding-chapter/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Two Pointers
 |  |
