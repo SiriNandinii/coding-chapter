@@ -117,6 +117,7 @@ Happy Coding! 💻✨
 | [0063-unique-paths-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SiriNandinii/coding-chapter/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SiriNandinii/coding-chapter/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/SiriNandinii/coding-chapter/tree/master/0073-set-matrix-zeroes) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -164,6 +165,7 @@ Happy Coding! 💻✨
 | [0036-valid-sudoku](https://github.com/SiriNandinii/coding-chapter/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SiriNandinii/coding-chapter/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SiriNandinii/coding-chapter/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/SiriNandinii/coding-chapter/tree/master/0073-set-matrix-zeroes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -246,6 +248,7 @@ Happy Coding! 💻✨
 | [0054-spiral-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SiriNandinii/coding-chapter/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/SiriNandinii/coding-chapter/tree/master/0073-set-matrix-zeroes) |
 ## Monotonic Stack
 |  |
 | ------- |
