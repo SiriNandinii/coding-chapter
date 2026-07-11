@@ -111,7 +111,6 @@ Happy Coding! 💻✨
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SiriNandinii/coding-chapter/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
-| [3783-mirror-distance-of-an-integer](https://github.com/SiriNandinii/coding-chapter/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
 | ------- |
@@ -161,6 +160,7 @@ Happy Coding! 💻✨
 | [3474-lexicographically-smallest-generated-string](https://github.com/SiriNandinii/coding-chapter/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3614-process-string-with-special-operations-ii) |
+| [3838-weighted-word-mapping](https://github.com/SiriNandinii/coding-chapter/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -297,6 +297,7 @@ Happy Coding! 💻✨
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SiriNandinii/coding-chapter/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/SiriNandinii/coding-chapter/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -630,6 +631,7 @@ Happy Coding! 💻✨
 | [3612-process-string-with-special-operations-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/SiriNandinii/coding-chapter/tree/master/3838-weighted-word-mapping) |
 ## Combinatorics
 |  |
 | ------- |
