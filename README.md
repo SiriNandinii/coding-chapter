@@ -90,6 +90,7 @@ Happy Coding! 💻✨
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SiriNandinii/coding-chapter/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SiriNandinii/coding-chapter/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/SiriNandinii/coding-chapter/tree/master/1840-maximum-building-height) |
 ## String
 |  |
 | ------- |
@@ -211,6 +212,7 @@ Happy Coding! 💻✨
 | [1679-max-number-of-k-sum-pairs](https://github.com/SiriNandinii/coding-chapter/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SiriNandinii/coding-chapter/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SiriNandinii/coding-chapter/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1840-maximum-building-height](https://github.com/SiriNandinii/coding-chapter/tree/master/1840-maximum-building-height) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SiriNandinii/coding-chapter/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Two Pointers
 |  |
@@ -341,6 +343,7 @@ Happy Coding! 💻✨
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SiriNandinii/coding-chapter/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SiriNandinii/coding-chapter/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SiriNandinii/coding-chapter/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1840-maximum-building-height](https://github.com/SiriNandinii/coding-chapter/tree/master/1840-maximum-building-height) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SiriNandinii/coding-chapter/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Backtracking
 |  |
