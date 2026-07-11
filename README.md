@@ -102,6 +102,7 @@ Happy Coding! 💻✨
 | [0412-fizz-buzz](https://github.com/SiriNandinii/coding-chapter/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0434-number-of-segments-in-a-string) |
+| [0500-keyboard-row](https://github.com/SiriNandinii/coding-chapter/tree/master/0500-keyboard-row) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/SiriNandinii/coding-chapter/tree/master/1768-merge-strings-alternately) |
 ## Array
@@ -153,6 +154,7 @@ Happy Coding! 💻✨
 | [0455-assign-cookies](https://github.com/SiriNandinii/coding-chapter/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/SiriNandinii/coding-chapter/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/SiriNandinii/coding-chapter/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/SiriNandinii/coding-chapter/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -215,6 +217,7 @@ Happy Coding! 💻✨
 | [0169-majority-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/SiriNandinii/coding-chapter/tree/master/0500-keyboard-row) |
 ## Sliding Window
 |  |
 | ------- |
