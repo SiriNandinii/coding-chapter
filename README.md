@@ -56,6 +56,7 @@ Happy Coding! 💻✨
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SiriNandinii/coding-chapter/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/SiriNandinii/coding-chapter/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0345-reverse-vowels-of-a-string) |
@@ -87,4 +88,12 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SiriNandinii/coding-chapter/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SiriNandinii/coding-chapter/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SiriNandinii/coding-chapter/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
