@@ -118,6 +118,7 @@ Happy Coding! 💻✨
 | [0064-minimum-path-sum](https://github.com/SiriNandinii/coding-chapter/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SiriNandinii/coding-chapter/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SiriNandinii/coding-chapter/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/SiriNandinii/coding-chapter/tree/master/0075-sort-colors) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -133,6 +134,7 @@ Happy Coding! 💻✨
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/SiriNandinii/coding-chapter/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SiriNandinii/coding-chapter/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/SiriNandinii/coding-chapter/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/SiriNandinii/coding-chapter/tree/master/1768-merge-strings-alternately) |
@@ -197,6 +199,7 @@ Happy Coding! 💻✨
 | [0018-4sum](https://github.com/SiriNandinii/coding-chapter/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/SiriNandinii/coding-chapter/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/SiriNandinii/coding-chapter/tree/master/0075-sort-colors) |
 ## Backtracking
 |  |
 | ------- |
