@@ -78,6 +78,7 @@ Happy Coding! 💻✨
 | [0837-new-21-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0837-new-21-game) |
 | [0869-reordered-power-of-2](https://github.com/SiriNandinii/coding-chapter/tree/master/0869-reordered-power-of-2) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1266-minimum-time-visiting-all-points](https://github.com/SiriNandinii/coding-chapter/tree/master/1266-minimum-time-visiting-all-points) |
 ## String
 |  |
 | ------- |
@@ -181,6 +182,7 @@ Happy Coding! 💻✨
 | [0997-find-the-town-judge](https://github.com/SiriNandinii/coding-chapter/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/SiriNandinii/coding-chapter/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/SiriNandinii/coding-chapter/tree/master/1207-unique-number-of-occurrences) |
+| [1266-minimum-time-visiting-all-points](https://github.com/SiriNandinii/coding-chapter/tree/master/1266-minimum-time-visiting-all-points) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SiriNandinii/coding-chapter/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/SiriNandinii/coding-chapter/tree/master/1288-remove-covered-intervals) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -427,4 +429,5 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/SiriNandinii/coding-chapter/tree/master/0812-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/SiriNandinii/coding-chapter/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
