@@ -83,6 +83,7 @@ Happy Coding! 💻✨
 | [0016-3sum-closest](https://github.com/SiriNandinii/coding-chapter/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SiriNandinii/coding-chapter/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/SiriNandinii/coding-chapter/tree/master/0035-search-insert-position) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -106,6 +107,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SiriNandinii/coding-chapter/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/SiriNandinii/coding-chapter/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
