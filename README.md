@@ -88,6 +88,7 @@ Happy Coding! 💻✨
 | [0027-remove-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SiriNandinii/coding-chapter/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SiriNandinii/coding-chapter/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/SiriNandinii/coding-chapter/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0040-combination-sum-ii) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -128,6 +129,7 @@ Happy Coding! 💻✨
 | [0013-roman-to-integer](https://github.com/SiriNandinii/coding-chapter/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/SiriNandinii/coding-chapter/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/SiriNandinii/coding-chapter/tree/master/0037-sudoku-solver) |
 ## Sliding Window
 |  |
 | ------- |
@@ -159,6 +161,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SiriNandinii/coding-chapter/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/SiriNandinii/coding-chapter/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0040-combination-sum-ii) |
 ## Recursion
 |  |
@@ -186,4 +189,5 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SiriNandinii/coding-chapter/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/SiriNandinii/coding-chapter/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
