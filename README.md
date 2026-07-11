@@ -86,6 +86,7 @@ Happy Coding! 💻✨
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SiriNandinii/coding-chapter/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/SiriNandinii/coding-chapter/tree/master/0037-sudoku-solver) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -124,6 +125,7 @@ Happy Coding! 💻✨
 | [0012-integer-to-roman](https://github.com/SiriNandinii/coding-chapter/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SiriNandinii/coding-chapter/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/SiriNandinii/coding-chapter/tree/master/0037-sudoku-solver) |
 ## Sliding Window
 |  |
 | ------- |
@@ -155,6 +157,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SiriNandinii/coding-chapter/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/SiriNandinii/coding-chapter/tree/master/0037-sudoku-solver) |
 ## Recursion
 |  |
 | ------- |
@@ -177,4 +180,8 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/SiriNandinii/coding-chapter/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
