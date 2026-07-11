@@ -239,6 +239,7 @@ Happy Coding! 💻✨
 | [2348-number-of-zero-filled-subarrays](https://github.com/SiriNandinii/coding-chapter/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SiriNandinii/coding-chapter/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/SiriNandinii/coding-chapter/tree/master/2463-minimum-total-distance-traveled) |
+| [2751-robot-collisions](https://github.com/SiriNandinii/coding-chapter/tree/master/2751-robot-collisions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -351,6 +352,7 @@ Happy Coding! 💻✨
 | [0071-simplify-path](https://github.com/SiriNandinii/coding-chapter/tree/master/0071-simplify-path) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SiriNandinii/coding-chapter/tree/master/1504-count-submatrices-with-all-ones) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SiriNandinii/coding-chapter/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2751-robot-collisions](https://github.com/SiriNandinii/coding-chapter/tree/master/2751-robot-collisions) |
 ## Linked List
 |  |
 | ------- |
@@ -391,6 +393,7 @@ Happy Coding! 💻✨
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SiriNandinii/coding-chapter/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SiriNandinii/coding-chapter/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/SiriNandinii/coding-chapter/tree/master/2463-minimum-total-distance-traveled) |
+| [2751-robot-collisions](https://github.com/SiriNandinii/coding-chapter/tree/master/2751-robot-collisions) |
 ## Backtracking
 |  |
 | ------- |
@@ -497,6 +500,7 @@ Happy Coding! 💻✨
 | [2069-walking-robot-simulation-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SiriNandinii/coding-chapter/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SiriNandinii/coding-chapter/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2751-robot-collisions](https://github.com/SiriNandinii/coding-chapter/tree/master/2751-robot-collisions) |
 ## Combinatorics
 |  |
 | ------- |
