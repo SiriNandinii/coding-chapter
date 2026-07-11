@@ -72,6 +72,7 @@ Happy Coding! 💻✨
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SiriNandinii/coding-chapter/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SiriNandinii/coding-chapter/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -271,6 +272,7 @@ Happy Coding! 💻✨
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/SiriNandinii/coding-chapter/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SiriNandinii/coding-chapter/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/SiriNandinii/coding-chapter/tree/master/3488-closest-equal-element-queries) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -301,6 +303,7 @@ Happy Coding! 💻✨
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SiriNandinii/coding-chapter/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SiriNandinii/coding-chapter/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SiriNandinii/coding-chapter/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -319,6 +322,7 @@ Happy Coding! 💻✨
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SiriNandinii/coding-chapter/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/SiriNandinii/coding-chapter/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/SiriNandinii/coding-chapter/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -333,6 +337,7 @@ Happy Coding! 💻✨
 | [3454-separate-squares-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SiriNandinii/coding-chapter/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/SiriNandinii/coding-chapter/tree/master/3488-closest-equal-element-queries) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -437,6 +442,7 @@ Happy Coding! 💻✨
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/SiriNandinii/coding-chapter/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SiriNandinii/coding-chapter/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -486,6 +492,7 @@ Happy Coding! 💻✨
 | [3225-maximum-score-from-grid-operations](https://github.com/SiriNandinii/coding-chapter/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SiriNandinii/coding-chapter/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/SiriNandinii/coding-chapter/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -575,6 +582,7 @@ Happy Coding! 💻✨
 | [0136-single-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/SiriNandinii/coding-chapter/tree/master/0342-power-of-four) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Memoization
 |  |
 | ------- |
