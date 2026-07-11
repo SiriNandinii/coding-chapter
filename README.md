@@ -60,6 +60,7 @@ Happy Coding! 💻✨
 | [0062-unique-paths](https://github.com/SiriNandinii/coding-chapter/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SiriNandinii/coding-chapter/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SiriNandinii/coding-chapter/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/SiriNandinii/coding-chapter/tree/master/0069-sqrtx) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -144,6 +145,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SiriNandinii/coding-chapter/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SiriNandinii/coding-chapter/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/SiriNandinii/coding-chapter/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
