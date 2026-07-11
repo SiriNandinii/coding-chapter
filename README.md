@@ -100,6 +100,7 @@ Happy Coding! 💻✨
 | [0053-maximum-subarray](https://github.com/SiriNandinii/coding-chapter/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/SiriNandinii/coding-chapter/tree/master/0056-merge-intervals) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -173,6 +174,7 @@ Happy Coding! 💻✨
 | [0016-3sum-closest](https://github.com/SiriNandinii/coding-chapter/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SiriNandinii/coding-chapter/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/SiriNandinii/coding-chapter/tree/master/0056-merge-intervals) |
 ## Backtracking
 |  |
 | ------- |
