@@ -149,6 +149,7 @@ Happy Coding! 💻✨
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/SiriNandinii/coding-chapter/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/SiriNandinii/coding-chapter/tree/master/0463-island-perimeter) |
+| [0496-next-greater-element-i](https://github.com/SiriNandinii/coding-chapter/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -211,6 +212,7 @@ Happy Coding! 💻✨
 | [0169-majority-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/SiriNandinii/coding-chapter/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -226,6 +228,7 @@ Happy Coding! 💻✨
 | [0032-longest-valid-parentheses](https://github.com/SiriNandinii/coding-chapter/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SiriNandinii/coding-chapter/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/SiriNandinii/coding-chapter/tree/master/0071-simplify-path) |
+| [0496-next-greater-element-i](https://github.com/SiriNandinii/coding-chapter/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -313,6 +316,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SiriNandinii/coding-chapter/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/SiriNandinii/coding-chapter/tree/master/0496-next-greater-element-i) |
 ## Simulation
 |  |
 | ------- |
