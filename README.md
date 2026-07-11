@@ -295,6 +295,7 @@ Happy Coding! 💻✨
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SiriNandinii/coding-chapter/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -385,6 +386,7 @@ Happy Coding! 💻✨
 | [0169-majority-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0169-majority-element) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
@@ -416,6 +418,7 @@ Happy Coding! 💻✨
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/SiriNandinii/coding-chapter/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -565,6 +568,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SiriNandinii/coding-chapter/tree/master/0023-merge-k-sorted-lists) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String Matching
 |  |
@@ -662,6 +666,7 @@ Happy Coding! 💻✨
 | [0869-reordered-power-of-2](https://github.com/SiriNandinii/coding-chapter/tree/master/0869-reordered-power-of-2) |
 | [1189-maximum-number-of-balloons](https://github.com/SiriNandinii/coding-chapter/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/SiriNandinii/coding-chapter/tree/master/2833-furthest-point-from-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Database
 |  |
 | ------- |
@@ -683,6 +688,7 @@ Happy Coding! 💻✨
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Enumeration
@@ -729,6 +735,7 @@ Happy Coding! 💻✨
 | ------- |
 | [3454-separate-squares-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3454-separate-squares-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sweep Line
 |  |
