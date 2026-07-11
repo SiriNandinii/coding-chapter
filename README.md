@@ -112,6 +112,7 @@ Happy Coding! 💻✨
 | [0821-shortest-distance-to-a-character](https://github.com/SiriNandinii/coding-chapter/tree/master/0821-shortest-distance-to-a-character) |
 | [0929-unique-email-addresses](https://github.com/SiriNandinii/coding-chapter/tree/master/0929-unique-email-addresses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/SiriNandinii/coding-chapter/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/SiriNandinii/coding-chapter/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
@@ -245,6 +246,7 @@ Happy Coding! 💻✨
 | [0869-reordered-power-of-2](https://github.com/SiriNandinii/coding-chapter/tree/master/0869-reordered-power-of-2) |
 | [0874-walking-robot-simulation](https://github.com/SiriNandinii/coding-chapter/tree/master/0874-walking-robot-simulation) |
 | [0929-unique-email-addresses](https://github.com/SiriNandinii/coding-chapter/tree/master/0929-unique-email-addresses) |
+| [1189-maximum-number-of-balloons](https://github.com/SiriNandinii/coding-chapter/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
 | ------- |
@@ -391,6 +393,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0169-majority-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0169-majority-element) |
 | [0869-reordered-power-of-2](https://github.com/SiriNandinii/coding-chapter/tree/master/0869-reordered-power-of-2) |
+| [1189-maximum-number-of-balloons](https://github.com/SiriNandinii/coding-chapter/tree/master/1189-maximum-number-of-balloons) |
 ## Database
 |  |
 | ------- |
