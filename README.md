@@ -56,6 +56,7 @@ Happy Coding! 💻✨
 | [0012-integer-to-roman](https://github.com/SiriNandinii/coding-chapter/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SiriNandinii/coding-chapter/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/SiriNandinii/coding-chapter/tree/master/0048-rotate-image) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -98,6 +99,7 @@ Happy Coding! 💻✨
 | [0042-trapping-rain-water](https://github.com/SiriNandinii/coding-chapter/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/SiriNandinii/coding-chapter/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/SiriNandinii/coding-chapter/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SiriNandinii/coding-chapter/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0055-jump-game) |
@@ -218,6 +220,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0036-valid-sudoku](https://github.com/SiriNandinii/coding-chapter/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SiriNandinii/coding-chapter/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/SiriNandinii/coding-chapter/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/0054-spiral-matrix) |
 ## Monotonic Stack
 |  |
