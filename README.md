@@ -41,6 +41,7 @@ Happy Coding! 💻✨
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SiriNandinii/coding-chapter/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SiriNandinii/coding-chapter/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SiriNandinii/coding-chapter/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -51,6 +52,7 @@ Happy Coding! 💻✨
 | [1306-jump-game-iii](https://github.com/SiriNandinii/coding-chapter/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SiriNandinii/coding-chapter/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SiriNandinii/coding-chapter/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -58,11 +60,13 @@ Happy Coding! 💻✨
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SiriNandinii/coding-chapter/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SiriNandinii/coding-chapter/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SiriNandinii/coding-chapter/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/SiriNandinii/coding-chapter/tree/master/0997-find-the-town-judge) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SiriNandinii/coding-chapter/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SiriNandinii/coding-chapter/tree/master/2685-count-the-number-of-complete-components) |
 ## Math
 |  |
