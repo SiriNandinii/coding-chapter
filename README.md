@@ -210,7 +210,7 @@ Happy Coding! 💻✨
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SiriNandinii/coding-chapter/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SiriNandinii/coding-chapter/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
-| [1732-find-the-highest-altitude](https://github.com/SiriNandinii/coding-chapter/tree/master/1732-find-the-highest-altitude) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/SiriNandinii/coding-chapter/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SiriNandinii/coding-chapter/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Two Pointers
 |  |
@@ -249,6 +249,7 @@ Happy Coding! 💻✨
 | [0455-assign-cookies](https://github.com/SiriNandinii/coding-chapter/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/SiriNandinii/coding-chapter/tree/master/0860-lemonade-change) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/SiriNandinii/coding-chapter/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Binary Search
 |  |
 | ------- |
@@ -339,6 +340,7 @@ Happy Coding! 💻✨
 | [1288-remove-covered-intervals](https://github.com/SiriNandinii/coding-chapter/tree/master/1288-remove-covered-intervals) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SiriNandinii/coding-chapter/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SiriNandinii/coding-chapter/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/SiriNandinii/coding-chapter/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SiriNandinii/coding-chapter/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Backtracking
 |  |
@@ -421,6 +423,7 @@ Happy Coding! 💻✨
 | [1504-count-submatrices-with-all-ones](https://github.com/SiriNandinii/coding-chapter/tree/master/1504-count-submatrices-with-all-ones) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/SiriNandinii/coding-chapter/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -470,7 +473,6 @@ Happy Coding! 💻✨
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SiriNandinii/coding-chapter/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/SiriNandinii/coding-chapter/tree/master/0724-find-pivot-index) |
-| [1732-find-the-highest-altitude](https://github.com/SiriNandinii/coding-chapter/tree/master/1732-find-the-highest-altitude) |
 ## Enumeration
 |  |
 | ------- |
