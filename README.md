@@ -69,6 +69,7 @@ Happy Coding! 💻✨
 | [0189-rotate-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/SiriNandinii/coding-chapter/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/SiriNandinii/coding-chapter/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/SiriNandinii/coding-chapter/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -145,6 +146,7 @@ Happy Coding! 💻✨
 | [0268-missing-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SiriNandinii/coding-chapter/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/SiriNandinii/coding-chapter/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/SiriNandinii/coding-chapter/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -287,6 +289,7 @@ Happy Coding! 💻✨
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SiriNandinii/coding-chapter/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/SiriNandinii/coding-chapter/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/SiriNandinii/coding-chapter/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/SiriNandinii/coding-chapter/tree/master/0396-rotate-function) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
