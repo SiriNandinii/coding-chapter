@@ -91,6 +91,7 @@ Happy Coding! 💻✨
 | [0151-reverse-words-in-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/SiriNandinii/coding-chapter/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/SiriNandinii/coding-chapter/tree/master/1768-merge-strings-alternately) |
 ## Array
@@ -157,6 +158,7 @@ Happy Coding! 💻✨
 | [0189-rotate-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SiriNandinii/coding-chapter/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/SiriNandinii/coding-chapter/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/SiriNandinii/coding-chapter/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -263,6 +265,7 @@ Happy Coding! 💻✨
 | [0118-pascals-triangle](https://github.com/SiriNandinii/coding-chapter/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SiriNandinii/coding-chapter/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/SiriNandinii/coding-chapter/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/SiriNandinii/coding-chapter/tree/master/0392-is-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
