@@ -55,6 +55,7 @@ Happy Coding! 💻✨
 | [0007-reverse-integer](https://github.com/SiriNandinii/coding-chapter/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/SiriNandinii/coding-chapter/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SiriNandinii/coding-chapter/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/0043-multiply-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -71,6 +72,7 @@ Happy Coding! 💻✨
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/SiriNandinii/coding-chapter/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SiriNandinii/coding-chapter/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -200,4 +202,8 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SiriNandinii/coding-chapter/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
