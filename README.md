@@ -255,6 +255,7 @@ Happy Coding! 💻✨
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/SiriNandinii/coding-chapter/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SiriNandinii/coding-chapter/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -507,6 +508,7 @@ Happy Coding! 💻✨
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SiriNandinii/coding-chapter/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SiriNandinii/coding-chapter/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -569,6 +571,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/SiriNandinii/coding-chapter/tree/master/0869-reordered-power-of-2) |
+| [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Probability and Statistics
 |  |
 | ------- |
