@@ -67,6 +67,7 @@ Happy Coding! 💻✨
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SiriNandinii/coding-chapter/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SiriNandinii/coding-chapter/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Happy Coding! 💻✨
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SiriNandinii/coding-chapter/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SiriNandinii/coding-chapter/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SiriNandinii/coding-chapter/tree/master/3620-network-recovery-pathways) |
 ## Math
@@ -283,6 +285,7 @@ Happy Coding! 💻✨
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/SiriNandinii/coding-chapter/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SiriNandinii/coding-chapter/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/SiriNandinii/coding-chapter/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -372,6 +375,7 @@ Happy Coding! 💻✨
 | [3454-separate-squares-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SiriNandinii/coding-chapter/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/SiriNandinii/coding-chapter/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SiriNandinii/coding-chapter/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -417,6 +421,7 @@ Happy Coding! 💻✨
 | [2215-find-the-difference-of-two-arrays](https://github.com/SiriNandinii/coding-chapter/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/SiriNandinii/coding-chapter/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3739-count-subarrays-with-majority-element-ii) |
