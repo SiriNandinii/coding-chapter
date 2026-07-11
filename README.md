@@ -156,6 +156,7 @@ Happy Coding! 💻✨
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2942-find-words-containing-character](https://github.com/SiriNandinii/coding-chapter/tree/master/2942-find-words-containing-character) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/SiriNandinii/coding-chapter/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3614-process-string-with-special-operations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3614-process-string-with-special-operations-ii) |
 ## Array
 |  |
 | ------- |
@@ -582,6 +583,7 @@ Happy Coding! 💻✨
 | [2161-partition-array-according-to-given-pivot](https://github.com/SiriNandinii/coding-chapter/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2751-robot-collisions](https://github.com/SiriNandinii/coding-chapter/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SiriNandinii/coding-chapter/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3614-process-string-with-special-operations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3614-process-string-with-special-operations-ii) |
 ## Combinatorics
 |  |
 | ------- |
