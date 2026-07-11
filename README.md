@@ -49,4 +49,12 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/SiriNandinii/coding-chapter/tree/master/2685-count-the-number-of-complete-components) |
+## Math
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
+## String
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
