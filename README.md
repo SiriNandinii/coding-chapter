@@ -96,6 +96,7 @@ Happy Coding! 💻✨
 | [0041-first-missing-positive](https://github.com/SiriNandinii/coding-chapter/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/SiriNandinii/coding-chapter/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/SiriNandinii/coding-chapter/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0047-permutations-ii) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -166,6 +167,7 @@ Happy Coding! 💻✨
 | [0015-3sum](https://github.com/SiriNandinii/coding-chapter/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SiriNandinii/coding-chapter/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SiriNandinii/coding-chapter/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0047-permutations-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -174,6 +176,7 @@ Happy Coding! 💻✨
 | [0037-sudoku-solver](https://github.com/SiriNandinii/coding-chapter/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SiriNandinii/coding-chapter/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0047-permutations-ii) |
 ## Recursion
 |  |
 | ------- |
