@@ -139,6 +139,7 @@ Happy Coding! 💻✨
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SiriNandinii/coding-chapter/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SiriNandinii/coding-chapter/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SiriNandinii/coding-chapter/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2942-find-words-containing-character](https://github.com/SiriNandinii/coding-chapter/tree/master/2942-find-words-containing-character) |
 ## Array
 |  |
 | ------- |
@@ -241,6 +242,7 @@ Happy Coding! 💻✨
 | [2463-minimum-total-distance-traveled](https://github.com/SiriNandinii/coding-chapter/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/SiriNandinii/coding-chapter/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/2906-construct-product-matrix) |
+| [2942-find-words-containing-character](https://github.com/SiriNandinii/coding-chapter/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
