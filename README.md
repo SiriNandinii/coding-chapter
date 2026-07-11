@@ -131,6 +131,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SiriNandinii/coding-chapter/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/SiriNandinii/coding-chapter/tree/master/0021-merge-two-sorted-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -141,4 +142,8 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SiriNandinii/coding-chapter/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
