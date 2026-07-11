@@ -199,6 +199,7 @@ Happy Coding! 💻✨
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SiriNandinii/coding-chapter/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SiriNandinii/coding-chapter/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1504-count-submatrices-with-all-ones](https://github.com/SiriNandinii/coding-chapter/tree/master/1504-count-submatrices-with-all-ones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -291,6 +292,7 @@ Happy Coding! 💻✨
 | [0032-longest-valid-parentheses](https://github.com/SiriNandinii/coding-chapter/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SiriNandinii/coding-chapter/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/SiriNandinii/coding-chapter/tree/master/0071-simplify-path) |
+| [1504-count-submatrices-with-all-ones](https://github.com/SiriNandinii/coding-chapter/tree/master/1504-count-submatrices-with-all-ones) |
 ## Linked List
 |  |
 | ------- |
@@ -361,6 +363,7 @@ Happy Coding! 💻✨
 | [1301-number-of-paths-with-max-score](https://github.com/SiriNandinii/coding-chapter/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SiriNandinii/coding-chapter/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SiriNandinii/coding-chapter/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1504-count-submatrices-with-all-ones](https://github.com/SiriNandinii/coding-chapter/tree/master/1504-count-submatrices-with-all-ones) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -394,10 +397,12 @@ Happy Coding! 💻✨
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SiriNandinii/coding-chapter/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/SiriNandinii/coding-chapter/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1504-count-submatrices-with-all-ones](https://github.com/SiriNandinii/coding-chapter/tree/master/1504-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SiriNandinii/coding-chapter/tree/master/0042-trapping-rain-water) |
+| [1504-count-submatrices-with-all-ones](https://github.com/SiriNandinii/coding-chapter/tree/master/1504-count-submatrices-with-all-ones) |
 ## Simulation
 |  |
 | ------- |
