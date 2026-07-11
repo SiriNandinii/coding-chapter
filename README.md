@@ -426,6 +426,7 @@ Happy Coding! 💻✨
 | [0498-diagonal-traverse](https://github.com/SiriNandinii/coding-chapter/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/SiriNandinii/coding-chapter/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/SiriNandinii/coding-chapter/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/2069-walking-robot-simulation-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -471,4 +472,8 @@ Happy Coding! 💻✨
 | ------- |
 | [0812-largest-triangle-area](https://github.com/SiriNandinii/coding-chapter/tree/master/0812-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SiriNandinii/coding-chapter/tree/master/1266-minimum-time-visiting-all-points) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
