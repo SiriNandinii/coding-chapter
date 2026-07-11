@@ -145,6 +145,7 @@ Happy Coding! 💻✨
 | [0407-trapping-rain-water-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/SiriNandinii/coding-chapter/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -168,6 +169,7 @@ Happy Coding! 💻✨
 | [0283-move-zeroes](https://github.com/SiriNandinii/coding-chapter/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SiriNandinii/coding-chapter/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/SiriNandinii/coding-chapter/tree/master/0455-assign-cookies) |
 | [1768-merge-strings-alternately](https://github.com/SiriNandinii/coding-chapter/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -176,6 +178,7 @@ Happy Coding! 💻✨
 | [0044-wildcard-matching](https://github.com/SiriNandinii/coding-chapter/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0179-largest-number) |
+| [0455-assign-cookies](https://github.com/SiriNandinii/coding-chapter/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 ## Binary Search
 |  |
@@ -243,6 +246,7 @@ Happy Coding! 💻✨
 | [0179-largest-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/SiriNandinii/coding-chapter/tree/master/0455-assign-cookies) |
 ## Backtracking
 |  |
 | ------- |
