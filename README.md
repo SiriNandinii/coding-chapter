@@ -134,6 +134,7 @@ Happy Coding! 💻✨
 | [1768-merge-strings-alternately](https://github.com/SiriNandinii/coding-chapter/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SiriNandinii/coding-chapter/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SiriNandinii/coding-chapter/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/SiriNandinii/coding-chapter/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Array
 |  |
 | ------- |
@@ -232,6 +233,7 @@ Happy Coding! 💻✨
 | [2215-find-the-difference-of-two-arrays](https://github.com/SiriNandinii/coding-chapter/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SiriNandinii/coding-chapter/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/SiriNandinii/coding-chapter/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/SiriNandinii/coding-chapter/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -333,6 +335,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SiriNandinii/coding-chapter/tree/master/0014-longest-common-prefix) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/SiriNandinii/coding-chapter/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Stack
 |  |
 | ------- |
