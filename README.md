@@ -86,6 +86,7 @@ Happy Coding! 💻✨
 | [0071-simplify-path](https://github.com/SiriNandinii/coding-chapter/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/SiriNandinii/coding-chapter/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/SiriNandinii/coding-chapter/tree/master/1768-merge-strings-alternately) |
@@ -125,6 +126,7 @@ Happy Coding! 💻✨
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SiriNandinii/coding-chapter/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -152,6 +154,7 @@ Happy Coding! 💻✨
 | [0011-container-with-most-water](https://github.com/SiriNandinii/coding-chapter/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/SiriNandinii/coding-chapter/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 ## Binary Search
 |  |
@@ -213,6 +216,7 @@ Happy Coding! 💻✨
 | [0075-sort-colors](https://github.com/SiriNandinii/coding-chapter/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
 | ------- |
