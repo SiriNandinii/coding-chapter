@@ -214,6 +214,7 @@ Happy Coding! 💻✨
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SiriNandinii/coding-chapter/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1840-maximum-building-height](https://github.com/SiriNandinii/coding-chapter/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SiriNandinii/coding-chapter/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SiriNandinii/coding-chapter/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SiriNandinii/coding-chapter/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Two Pointers
 |  |
@@ -241,6 +242,7 @@ Happy Coding! 💻✨
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SiriNandinii/coding-chapter/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SiriNandinii/coding-chapter/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/SiriNandinii/coding-chapter/tree/master/1768-merge-strings-alternately) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SiriNandinii/coding-chapter/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SiriNandinii/coding-chapter/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
@@ -261,6 +263,7 @@ Happy Coding! 💻✨
 | [0069-sqrtx](https://github.com/SiriNandinii/coding-chapter/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0268-missing-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SiriNandinii/coding-chapter/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SiriNandinii/coding-chapter/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Divide and Conquer
 |  |
 | ------- |
