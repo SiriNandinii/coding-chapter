@@ -144,6 +144,7 @@ Happy Coding! 💻✨
 | [0322-coin-change](https://github.com/SiriNandinii/coding-chapter/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -203,6 +204,7 @@ Happy Coding! 💻✨
 | [0073-set-matrix-zeroes](https://github.com/SiriNandinii/coding-chapter/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
