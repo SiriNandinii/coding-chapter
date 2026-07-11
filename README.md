@@ -240,6 +240,7 @@ Happy Coding! 💻✨
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SiriNandinii/coding-chapter/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/SiriNandinii/coding-chapter/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/SiriNandinii/coding-chapter/tree/master/2751-robot-collisions) |
+| [2906-construct-product-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/2906-construct-product-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -481,6 +482,7 @@ Happy Coding! 💻✨
 | [1861-rotating-the-box](https://github.com/SiriNandinii/coding-chapter/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SiriNandinii/coding-chapter/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2906-construct-product-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/2906-construct-product-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -535,6 +537,7 @@ Happy Coding! 💻✨
 | [0724-find-pivot-index](https://github.com/SiriNandinii/coding-chapter/tree/master/0724-find-pivot-index) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SiriNandinii/coding-chapter/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2906-construct-product-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/2906-construct-product-matrix) |
 ## Enumeration
 |  |
 | ------- |
