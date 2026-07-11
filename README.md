@@ -266,6 +266,7 @@ Happy Coding! 💻✨
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SiriNandinii/coding-chapter/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3454-separate-squares-ii) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/SiriNandinii/coding-chapter/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## Two Pointers
 |  |
 | ------- |
@@ -475,6 +476,7 @@ Happy Coding! 💻✨
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/SiriNandinii/coding-chapter/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SiriNandinii/coding-chapter/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/SiriNandinii/coding-chapter/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -529,6 +531,7 @@ Happy Coding! 💻✨
 | [3225-maximum-score-from-grid-operations](https://github.com/SiriNandinii/coding-chapter/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SiriNandinii/coding-chapter/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/SiriNandinii/coding-chapter/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -566,6 +569,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SiriNandinii/coding-chapter/tree/master/0070-climbing-stairs) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/SiriNandinii/coding-chapter/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## Counting
 |  |
 | ------- |
