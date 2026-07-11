@@ -68,6 +68,7 @@ Happy Coding! 💻✨
 | [0070-climbing-stairs](https://github.com/SiriNandinii/coding-chapter/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/SiriNandinii/coding-chapter/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/SiriNandinii/coding-chapter/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -268,6 +269,7 @@ Happy Coding! 💻✨
 | [0021-merge-two-sorted-lists](https://github.com/SiriNandinii/coding-chapter/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SiriNandinii/coding-chapter/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/SiriNandinii/coding-chapter/tree/master/0044-wildcard-matching) |
+| [0342-power-of-four](https://github.com/SiriNandinii/coding-chapter/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -334,6 +336,7 @@ Happy Coding! 💻✨
 | [0067-add-binary](https://github.com/SiriNandinii/coding-chapter/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/SiriNandinii/coding-chapter/tree/master/0342-power-of-four) |
 ## Memoization
 |  |
 | ------- |
