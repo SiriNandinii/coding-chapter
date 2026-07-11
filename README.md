@@ -179,6 +179,7 @@ Happy Coding! 💻✨
 | [0941-valid-mountain-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0941-valid-mountain-array) |
 | [1046-last-stone-weight](https://github.com/SiriNandinii/coding-chapter/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/SiriNandinii/coding-chapter/tree/master/1207-unique-number-of-occurrences) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/SiriNandinii/coding-chapter/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
@@ -330,6 +331,7 @@ Happy Coding! 💻✨
 | [0392-is-subsequence](https://github.com/SiriNandinii/coding-chapter/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/SiriNandinii/coding-chapter/tree/master/0396-rotate-function) |
 | [0837-new-21-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0837-new-21-game) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/SiriNandinii/coding-chapter/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -360,6 +362,7 @@ Happy Coding! 💻✨
 | [0463-island-perimeter](https://github.com/SiriNandinii/coding-chapter/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/SiriNandinii/coding-chapter/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/SiriNandinii/coding-chapter/tree/master/0661-image-smoother) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/SiriNandinii/coding-chapter/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
