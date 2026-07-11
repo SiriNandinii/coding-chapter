@@ -123,6 +123,7 @@ Happy Coding! 💻✨
 | [0088-merge-sorted-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SiriNandinii/coding-chapter/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SiriNandinii/coding-chapter/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0136-single-number) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -280,6 +281,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SiriNandinii/coding-chapter/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0136-single-number) |
 ## Memoization
 |  |
 | ------- |
