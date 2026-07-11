@@ -163,6 +163,7 @@ Happy Coding! 💻✨
 | [0506-relative-ranks](https://github.com/SiriNandinii/coding-chapter/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/SiriNandinii/coding-chapter/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/SiriNandinii/coding-chapter/tree/master/0661-image-smoother) |
 | [0679-24-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/SiriNandinii/coding-chapter/tree/master/0724-find-pivot-index) |
@@ -238,6 +239,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SiriNandinii/coding-chapter/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/SiriNandinii/coding-chapter/tree/master/0643-maximum-average-subarray-i) |
 ## Trie
 |  |
 | ------- |
