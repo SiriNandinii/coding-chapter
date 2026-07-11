@@ -140,6 +140,7 @@ Happy Coding! 💻✨
 | [0283-move-zeroes](https://github.com/SiriNandinii/coding-chapter/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/SiriNandinii/coding-chapter/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0407-trapping-rain-water-ii) |
+| [0414-third-maximum-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -236,6 +237,7 @@ Happy Coding! 💻✨
 | [0169-majority-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0414-third-maximum-number) |
 ## Backtracking
 |  |
 | ------- |
