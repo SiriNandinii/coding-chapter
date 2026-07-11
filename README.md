@@ -92,6 +92,7 @@ Happy Coding! 💻✨
 | [1344-angle-between-hands-of-a-clock](https://github.com/SiriNandinii/coding-chapter/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/SiriNandinii/coding-chapter/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## String
 |  |
 | ------- |
@@ -222,6 +223,7 @@ Happy Coding! 💻✨
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SiriNandinii/coding-chapter/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SiriNandinii/coding-chapter/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SiriNandinii/coding-chapter/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SiriNandinii/coding-chapter/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Two Pointers
@@ -361,6 +363,7 @@ Happy Coding! 💻✨
 | [1840-maximum-building-height](https://github.com/SiriNandinii/coding-chapter/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SiriNandinii/coding-chapter/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SiriNandinii/coding-chapter/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Backtracking
 |  |
@@ -448,6 +451,7 @@ Happy Coding! 💻✨
 | [1861-rotating-the-box](https://github.com/SiriNandinii/coding-chapter/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SiriNandinii/coding-chapter/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
