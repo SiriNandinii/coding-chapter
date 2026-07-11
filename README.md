@@ -213,6 +213,7 @@ Happy Coding! 💻✨
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SiriNandinii/coding-chapter/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SiriNandinii/coding-chapter/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1840-maximum-building-height](https://github.com/SiriNandinii/coding-chapter/tree/master/1840-maximum-building-height) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/SiriNandinii/coding-chapter/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SiriNandinii/coding-chapter/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Two Pointers
 |  |
