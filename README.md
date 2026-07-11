@@ -175,6 +175,7 @@ Happy Coding! 💻✨
 | [0860-lemonade-change](https://github.com/SiriNandinii/coding-chapter/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/SiriNandinii/coding-chapter/tree/master/0874-walking-robot-simulation) |
 | [0929-unique-email-addresses](https://github.com/SiriNandinii/coding-chapter/tree/master/0929-unique-email-addresses) |
+| [0941-valid-mountain-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0941-valid-mountain-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
