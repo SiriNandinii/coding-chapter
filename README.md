@@ -52,6 +52,7 @@ Happy Coding! 💻✨
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0009-palindrome-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
