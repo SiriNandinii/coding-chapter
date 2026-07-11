@@ -247,6 +247,7 @@ Happy Coding! 💻✨
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SiriNandinii/coding-chapter/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/SiriNandinii/coding-chapter/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/SiriNandinii/coding-chapter/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SiriNandinii/coding-chapter/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -492,6 +493,7 @@ Happy Coding! 💻✨
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SiriNandinii/coding-chapter/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SiriNandinii/coding-chapter/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SiriNandinii/coding-chapter/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -548,6 +550,7 @@ Happy Coding! 💻✨
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SiriNandinii/coding-chapter/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2906-construct-product-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/2906-construct-product-matrix) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SiriNandinii/coding-chapter/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Enumeration
 |  |
 | ------- |
