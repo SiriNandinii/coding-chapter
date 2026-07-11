@@ -123,6 +123,7 @@ Happy Coding! 💻✨
 | [1189-maximum-number-of-balloons](https://github.com/SiriNandinii/coding-chapter/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SiriNandinii/coding-chapter/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SiriNandinii/coding-chapter/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SiriNandinii/coding-chapter/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/SiriNandinii/coding-chapter/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
@@ -275,6 +276,7 @@ Happy Coding! 💻✨
 | [0643-maximum-average-subarray-i](https://github.com/SiriNandinii/coding-chapter/tree/master/0643-maximum-average-subarray-i) |
 | [0837-new-21-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0837-new-21-game) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SiriNandinii/coding-chapter/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SiriNandinii/coding-chapter/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Trie
 |  |
 | ------- |
