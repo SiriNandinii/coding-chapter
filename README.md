@@ -41,6 +41,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/SiriNandinii/coding-chapter/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0407-trapping-rain-water-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/SiriNandinii/coding-chapter/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -136,6 +137,7 @@ Happy Coding! 💻✨
 | [0268-missing-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SiriNandinii/coding-chapter/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/SiriNandinii/coding-chapter/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0407-trapping-rain-water-ii) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -270,6 +272,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SiriNandinii/coding-chapter/tree/master/0023-merge-k-sorted-lists) |
+| [0407-trapping-rain-water-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0407-trapping-rain-water-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -288,6 +291,7 @@ Happy Coding! 💻✨
 | [0063-unique-paths-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SiriNandinii/coding-chapter/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SiriNandinii/coding-chapter/tree/master/0073-set-matrix-zeroes) |
+| [0407-trapping-rain-water-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0407-trapping-rain-water-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
