@@ -159,6 +159,7 @@ Happy Coding! 💻✨
 | [0506-relative-ranks](https://github.com/SiriNandinii/coding-chapter/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
+| [0661-image-smoother](https://github.com/SiriNandinii/coding-chapter/tree/master/0661-image-smoother) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
@@ -325,6 +326,7 @@ Happy Coding! 💻✨
 | [0407-trapping-rain-water-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/SiriNandinii/coding-chapter/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/SiriNandinii/coding-chapter/tree/master/0498-diagonal-traverse) |
+| [0661-image-smoother](https://github.com/SiriNandinii/coding-chapter/tree/master/0661-image-smoother) |
 ## Monotonic Stack
 |  |
 | ------- |
