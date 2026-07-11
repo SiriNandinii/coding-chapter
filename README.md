@@ -140,6 +140,7 @@ Happy Coding! 💻✨
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SiriNandinii/coding-chapter/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SiriNandinii/coding-chapter/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SiriNandinii/coding-chapter/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2833-furthest-point-from-origin](https://github.com/SiriNandinii/coding-chapter/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/SiriNandinii/coding-chapter/tree/master/2942-find-words-containing-character) |
 ## Array
 |  |
@@ -536,6 +537,7 @@ Happy Coding! 💻✨
 | [0169-majority-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0169-majority-element) |
 | [0869-reordered-power-of-2](https://github.com/SiriNandinii/coding-chapter/tree/master/0869-reordered-power-of-2) |
 | [1189-maximum-number-of-balloons](https://github.com/SiriNandinii/coding-chapter/tree/master/1189-maximum-number-of-balloons) |
+| [2833-furthest-point-from-origin](https://github.com/SiriNandinii/coding-chapter/tree/master/2833-furthest-point-from-origin) |
 ## Database
 |  |
 | ------- |
