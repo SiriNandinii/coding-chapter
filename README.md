@@ -107,6 +107,7 @@ Happy Coding! 💻✨
 | [0055-jump-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SiriNandinii/coding-chapter/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SiriNandinii/coding-chapter/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0063-unique-paths-ii) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -210,6 +211,7 @@ Happy Coding! 💻✨
 | [0053-maximum-subarray](https://github.com/SiriNandinii/coding-chapter/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SiriNandinii/coding-chapter/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0063-unique-paths-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -229,6 +231,7 @@ Happy Coding! 💻✨
 | [0037-sudoku-solver](https://github.com/SiriNandinii/coding-chapter/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/SiriNandinii/coding-chapter/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0063-unique-paths-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
