@@ -210,6 +210,7 @@ Happy Coding! 💻✨
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SiriNandinii/coding-chapter/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SiriNandinii/coding-chapter/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1732-find-the-highest-altitude](https://github.com/SiriNandinii/coding-chapter/tree/master/1732-find-the-highest-altitude) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SiriNandinii/coding-chapter/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Two Pointers
 |  |
@@ -469,6 +470,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SiriNandinii/coding-chapter/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/SiriNandinii/coding-chapter/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/SiriNandinii/coding-chapter/tree/master/1732-find-the-highest-altitude) |
 ## Enumeration
 |  |
 | ------- |
