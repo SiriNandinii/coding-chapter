@@ -73,6 +73,7 @@ Happy Coding! 💻✨
 | [0412-fizz-buzz](https://github.com/SiriNandinii/coding-chapter/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/0415-add-strings) |
 | [0679-24-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0679-24-game) |
+| [0788-rotated-digits](https://github.com/SiriNandinii/coding-chapter/tree/master/0788-rotated-digits) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -303,6 +304,7 @@ Happy Coding! 💻✨
 | [0322-coin-change](https://github.com/SiriNandinii/coding-chapter/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/SiriNandinii/coding-chapter/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/SiriNandinii/coding-chapter/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/SiriNandinii/coding-chapter/tree/master/0788-rotated-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
