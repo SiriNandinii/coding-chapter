@@ -61,6 +61,7 @@ Happy Coding! 💻✨
 | [0066-plus-one](https://github.com/SiriNandinii/coding-chapter/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SiriNandinii/coding-chapter/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SiriNandinii/coding-chapter/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/SiriNandinii/coding-chapter/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -221,6 +222,7 @@ Happy Coding! 💻✨
 | [0062-unique-paths](https://github.com/SiriNandinii/coding-chapter/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SiriNandinii/coding-chapter/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/SiriNandinii/coding-chapter/tree/master/0070-climbing-stairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -260,4 +262,8 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SiriNandinii/coding-chapter/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SiriNandinii/coding-chapter/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
