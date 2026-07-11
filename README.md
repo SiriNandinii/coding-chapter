@@ -246,6 +246,7 @@ Happy Coding! 💻✨
 | [2942-find-words-containing-character](https://github.com/SiriNandinii/coding-chapter/tree/master/2942-find-words-containing-character) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SiriNandinii/coding-chapter/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/SiriNandinii/coding-chapter/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/SiriNandinii/coding-chapter/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
