@@ -234,6 +234,7 @@ Happy Coding! 💻✨
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SiriNandinii/coding-chapter/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/SiriNandinii/coding-chapter/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SiriNandinii/coding-chapter/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2463-minimum-total-distance-traveled](https://github.com/SiriNandinii/coding-chapter/tree/master/2463-minimum-total-distance-traveled) |
 ## Two Pointers
 |  |
 | ------- |
@@ -382,6 +383,7 @@ Happy Coding! 💻✨
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SiriNandinii/coding-chapter/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SiriNandinii/coding-chapter/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SiriNandinii/coding-chapter/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/SiriNandinii/coding-chapter/tree/master/2463-minimum-total-distance-traveled) |
 ## Backtracking
 |  |
 | ------- |
@@ -426,6 +428,7 @@ Happy Coding! 💻✨
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SiriNandinii/coding-chapter/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SiriNandinii/coding-chapter/tree/master/1504-count-submatrices-with-all-ones) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2463-minimum-total-distance-traveled](https://github.com/SiriNandinii/coding-chapter/tree/master/2463-minimum-total-distance-traveled) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
