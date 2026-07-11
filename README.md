@@ -254,6 +254,7 @@ Happy Coding! 💻✨
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/SiriNandinii/coding-chapter/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/SiriNandinii/coding-chapter/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SiriNandinii/coding-chapter/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -505,6 +506,7 @@ Happy Coding! 💻✨
 | [2906-construct-product-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SiriNandinii/coding-chapter/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SiriNandinii/coding-chapter/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 ## Monotonic Stack
 |  |
 | ------- |
