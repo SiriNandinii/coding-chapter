@@ -167,6 +167,7 @@ Happy Coding! 💻✨
 | [0679-24-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/SiriNandinii/coding-chapter/tree/master/0724-find-pivot-index) |
 | [0821-shortest-distance-to-a-character](https://github.com/SiriNandinii/coding-chapter/tree/master/0821-shortest-distance-to-a-character) |
+| [0874-walking-robot-simulation](https://github.com/SiriNandinii/coding-chapter/tree/master/0874-walking-robot-simulation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
@@ -232,6 +233,7 @@ Happy Coding! 💻✨
 | [0500-keyboard-row](https://github.com/SiriNandinii/coding-chapter/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/0575-distribute-candies) |
 | [0869-reordered-power-of-2](https://github.com/SiriNandinii/coding-chapter/tree/master/0869-reordered-power-of-2) |
+| [0874-walking-robot-simulation](https://github.com/SiriNandinii/coding-chapter/tree/master/0874-walking-robot-simulation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -353,6 +355,7 @@ Happy Coding! 💻✨
 | [0415-add-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/SiriNandinii/coding-chapter/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/SiriNandinii/coding-chapter/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/SiriNandinii/coding-chapter/tree/master/0874-walking-robot-simulation) |
 ## Combinatorics
 |  |
 | ------- |
