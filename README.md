@@ -177,6 +177,7 @@ Happy Coding! 💻✨
 | [0040-combination-sum-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SiriNandinii/coding-chapter/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0047-permutations-ii) |
+| [0052-n-queens-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0052-n-queens-ii) |
 ## Recursion
 |  |
 | ------- |
