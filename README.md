@@ -143,6 +143,7 @@ Happy Coding! 💻✨
 | [2075-decode-the-slanted-ciphertext](https://github.com/SiriNandinii/coding-chapter/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SiriNandinii/coding-chapter/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/SiriNandinii/coding-chapter/tree/master/2833-furthest-point-from-origin) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SiriNandinii/coding-chapter/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2942-find-words-containing-character](https://github.com/SiriNandinii/coding-chapter/tree/master/2942-find-words-containing-character) |
 ## Array
 |  |
