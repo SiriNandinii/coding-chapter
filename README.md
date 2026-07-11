@@ -180,6 +180,7 @@ Happy Coding! 💻✨
 | [1046-last-stone-weight](https://github.com/SiriNandinii/coding-chapter/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/SiriNandinii/coding-chapter/tree/master/1207-unique-number-of-occurrences) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SiriNandinii/coding-chapter/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1288-remove-covered-intervals](https://github.com/SiriNandinii/coding-chapter/tree/master/1288-remove-covered-intervals) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
@@ -293,6 +294,7 @@ Happy Coding! 💻✨
 | [0455-assign-cookies](https://github.com/SiriNandinii/coding-chapter/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/SiriNandinii/coding-chapter/tree/master/0506-relative-ranks) |
 | [0869-reordered-power-of-2](https://github.com/SiriNandinii/coding-chapter/tree/master/0869-reordered-power-of-2) |
+| [1288-remove-covered-intervals](https://github.com/SiriNandinii/coding-chapter/tree/master/1288-remove-covered-intervals) |
 ## Backtracking
 |  |
 | ------- |
