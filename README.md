@@ -162,6 +162,7 @@ Happy Coding! 💻✨
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/SiriNandinii/coding-chapter/tree/master/0661-image-smoother) |
 | [0679-24-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0679-24-game) |
+| [0724-find-pivot-index](https://github.com/SiriNandinii/coding-chapter/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
@@ -373,4 +374,5 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SiriNandinii/coding-chapter/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/SiriNandinii/coding-chapter/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
