@@ -98,6 +98,7 @@ Happy Coding! 💻✨
 | [0046-permutations](https://github.com/SiriNandinii/coding-chapter/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/SiriNandinii/coding-chapter/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/0054-spiral-matrix) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -211,6 +212,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0036-valid-sudoku](https://github.com/SiriNandinii/coding-chapter/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SiriNandinii/coding-chapter/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/0054-spiral-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -219,4 +221,5 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
