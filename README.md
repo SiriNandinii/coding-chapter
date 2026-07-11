@@ -67,6 +67,7 @@ Happy Coding! 💻✨
 | [0014-longest-common-prefix](https://github.com/SiriNandinii/coding-chapter/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/SiriNandinii/coding-chapter/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SiriNandinii/coding-chapter/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -142,8 +143,13 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/SiriNandinii/coding-chapter/tree/master/0022-generate-parentheses) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SiriNandinii/coding-chapter/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SiriNandinii/coding-chapter/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
