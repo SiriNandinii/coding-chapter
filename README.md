@@ -58,6 +58,7 @@ Happy Coding! 💻✨
 | [0043-multiply-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/SiriNandinii/coding-chapter/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/SiriNandinii/coding-chapter/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/SiriNandinii/coding-chapter/tree/master/0066-plus-one) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -110,6 +111,7 @@ Happy Coding! 💻✨
 | [0057-insert-interval](https://github.com/SiriNandinii/coding-chapter/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SiriNandinii/coding-chapter/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/SiriNandinii/coding-chapter/tree/master/0066-plus-one) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
