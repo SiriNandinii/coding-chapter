@@ -279,6 +279,7 @@ Happy Coding! 💻✨
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SiriNandinii/coding-chapter/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -450,6 +451,7 @@ Happy Coding! 💻✨
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/SiriNandinii/coding-chapter/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SiriNandinii/coding-chapter/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SiriNandinii/coding-chapter/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -558,6 +560,7 @@ Happy Coding! 💻✨
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SiriNandinii/coding-chapter/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/SiriNandinii/coding-chapter/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SiriNandinii/coding-chapter/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Monotonic Stack
 |  |
 | ------- |
