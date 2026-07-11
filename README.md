@@ -156,6 +156,7 @@ Happy Coding! 💻✨
 | [0498-diagonal-traverse](https://github.com/SiriNandinii/coding-chapter/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/SiriNandinii/coding-chapter/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/SiriNandinii/coding-chapter/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -219,6 +220,7 @@ Happy Coding! 💻✨
 | [0268-missing-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/SiriNandinii/coding-chapter/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/0575-distribute-candies) |
 ## Sliding Window
 |  |
 | ------- |
