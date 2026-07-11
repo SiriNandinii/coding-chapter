@@ -95,6 +95,7 @@ Happy Coding! 💻✨
 | [0040-combination-sum-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/SiriNandinii/coding-chapter/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/SiriNandinii/coding-chapter/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0045-jump-game-ii) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -117,6 +118,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0011-container-with-most-water](https://github.com/SiriNandinii/coding-chapter/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/SiriNandinii/coding-chapter/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0045-jump-game-ii) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 ## Binary Search
 |  |
@@ -185,6 +187,7 @@ Happy Coding! 💻✨
 | [0032-longest-valid-parentheses](https://github.com/SiriNandinii/coding-chapter/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SiriNandinii/coding-chapter/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/SiriNandinii/coding-chapter/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0045-jump-game-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
