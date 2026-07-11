@@ -73,6 +73,7 @@ Happy Coding! 💻✨
 | [0412-fizz-buzz](https://github.com/SiriNandinii/coding-chapter/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/0415-add-strings) |
 | [0679-24-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0679-24-game) |
+| [0812-largest-triangle-area](https://github.com/SiriNandinii/coding-chapter/tree/master/0812-largest-triangle-area) |
 | [0837-new-21-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0837-new-21-game) |
 | [0869-reordered-power-of-2](https://github.com/SiriNandinii/coding-chapter/tree/master/0869-reordered-power-of-2) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -168,6 +169,7 @@ Happy Coding! 💻✨
 | [0661-image-smoother](https://github.com/SiriNandinii/coding-chapter/tree/master/0661-image-smoother) |
 | [0679-24-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/SiriNandinii/coding-chapter/tree/master/0724-find-pivot-index) |
+| [0812-largest-triangle-area](https://github.com/SiriNandinii/coding-chapter/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/SiriNandinii/coding-chapter/tree/master/0821-shortest-distance-to-a-character) |
 | [0874-walking-robot-simulation](https://github.com/SiriNandinii/coding-chapter/tree/master/0874-walking-robot-simulation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -400,4 +402,8 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0837-new-21-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0837-new-21-game) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/SiriNandinii/coding-chapter/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
