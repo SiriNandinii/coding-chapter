@@ -55,6 +55,7 @@ Happy Coding! 💻✨
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SiriNandinii/coding-chapter/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SiriNandinii/coding-chapter/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Happy Coding! 💻✨
 | [0997-find-the-town-judge](https://github.com/SiriNandinii/coding-chapter/tree/master/0997-find-the-town-judge) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SiriNandinii/coding-chapter/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SiriNandinii/coding-chapter/tree/master/2685-count-the-number-of-complete-components) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -259,6 +261,7 @@ Happy Coding! 💻✨
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SiriNandinii/coding-chapter/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/SiriNandinii/coding-chapter/tree/master/3225-maximum-score-from-grid-operations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -475,6 +478,7 @@ Happy Coding! 💻✨
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SiriNandinii/coding-chapter/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -516,6 +520,7 @@ Happy Coding! 💻✨
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SiriNandinii/coding-chapter/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/SiriNandinii/coding-chapter/tree/master/3225-maximum-score-from-grid-operations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -606,4 +611,8 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SiriNandinii/coding-chapter/tree/master/2196-create-binary-tree-from-descriptions) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
