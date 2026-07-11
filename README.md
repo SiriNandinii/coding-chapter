@@ -124,6 +124,7 @@ Happy Coding! 💻✨
 | [0118-pascals-triangle](https://github.com/SiriNandinii/coding-chapter/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SiriNandinii/coding-chapter/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0169-majority-element) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -164,6 +165,7 @@ Happy Coding! 💻✨
 | [0004-median-of-two-sorted-arrays](https://github.com/SiriNandinii/coding-chapter/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/SiriNandinii/coding-chapter/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/SiriNandinii/coding-chapter/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +177,7 @@ Happy Coding! 💻✨
 | [0037-sudoku-solver](https://github.com/SiriNandinii/coding-chapter/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SiriNandinii/coding-chapter/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/SiriNandinii/coding-chapter/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -209,6 +212,7 @@ Happy Coding! 💻✨
 | [0056-merge-intervals](https://github.com/SiriNandinii/coding-chapter/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SiriNandinii/coding-chapter/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -286,4 +290,8 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SiriNandinii/coding-chapter/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
