@@ -81,7 +81,7 @@ Happy Coding! 💻✨
 | [0869-reordered-power-of-2](https://github.com/SiriNandinii/coding-chapter/tree/master/0869-reordered-power-of-2) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SiriNandinii/coding-chapter/tree/master/1266-minimum-time-visiting-all-points) |
-| [1344-angle-between-hands-of-a-clock](https://github.com/SiriNandinii/coding-chapter/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1323-maximum-69-number](https://github.com/SiriNandinii/coding-chapter/tree/master/1323-maximum-69-number) |
 ## String
 |  |
 | ------- |
@@ -226,6 +226,7 @@ Happy Coding! 💻✨
 | [0455-assign-cookies](https://github.com/SiriNandinii/coding-chapter/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/SiriNandinii/coding-chapter/tree/master/0860-lemonade-change) |
+| [1323-maximum-69-number](https://github.com/SiriNandinii/coding-chapter/tree/master/1323-maximum-69-number) |
 ## Binary Search
 |  |
 | ------- |
