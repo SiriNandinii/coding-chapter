@@ -265,6 +265,7 @@ Happy Coding! 💻✨
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SiriNandinii/coding-chapter/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3454-separate-squares-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -323,6 +324,7 @@ Happy Coding! 💻✨
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SiriNandinii/coding-chapter/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3453-separate-squares-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3454-separate-squares-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -622,4 +624,12 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3454-separate-squares-ii) |
+## Sweep Line
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
