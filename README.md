@@ -217,6 +217,7 @@ Happy Coding! 💻✨
 | [1848-minimum-distance-to-the-target-element](https://github.com/SiriNandinii/coding-chapter/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/SiriNandinii/coding-chapter/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SiriNandinii/coding-chapter/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SiriNandinii/coding-chapter/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Two Pointers
 |  |
@@ -436,6 +437,7 @@ Happy Coding! 💻✨
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SiriNandinii/coding-chapter/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/SiriNandinii/coding-chapter/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SiriNandinii/coding-chapter/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Monotonic Stack
 |  |
 | ------- |
