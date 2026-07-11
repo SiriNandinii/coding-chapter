@@ -64,6 +64,7 @@ Happy Coding! 💻✨
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SiriNandinii/coding-chapter/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0027-remove-element) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -78,4 +79,12 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SiriNandinii/coding-chapter/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SiriNandinii/coding-chapter/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
