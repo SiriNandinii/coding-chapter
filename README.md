@@ -72,6 +72,7 @@ Happy Coding! 💻✨
 | [0396-rotate-function](https://github.com/SiriNandinii/coding-chapter/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/SiriNandinii/coding-chapter/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/0415-add-strings) |
+| [0679-24-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0679-24-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -160,6 +161,7 @@ Happy Coding! 💻✨
 | [0575-distribute-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/SiriNandinii/coding-chapter/tree/master/0661-image-smoother) |
+| [0679-24-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0679-24-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
@@ -274,6 +276,7 @@ Happy Coding! 💻✨
 | [0047-permutations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/SiriNandinii/coding-chapter/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0052-n-queens-ii) |
+| [0679-24-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0679-24-game) |
 ## Recursion
 |  |
 | ------- |
