@@ -224,6 +224,7 @@ Happy Coding! 💻✨
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SiriNandinii/coding-chapter/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SiriNandinii/coding-chapter/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SiriNandinii/coding-chapter/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SiriNandinii/coding-chapter/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Two Pointers
 |  |
 | ------- |
@@ -274,6 +275,7 @@ Happy Coding! 💻✨
 | [0069-sqrtx](https://github.com/SiriNandinii/coding-chapter/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0268-missing-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SiriNandinii/coding-chapter/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SiriNandinii/coding-chapter/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -314,6 +316,7 @@ Happy Coding! 💻✨
 | [0837-new-21-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0837-new-21-game) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SiriNandinii/coding-chapter/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SiriNandinii/coding-chapter/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SiriNandinii/coding-chapter/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Trie
 |  |
 | ------- |
@@ -499,6 +502,7 @@ Happy Coding! 💻✨
 | [0238-product-of-array-except-self](https://github.com/SiriNandinii/coding-chapter/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/SiriNandinii/coding-chapter/tree/master/0724-find-pivot-index) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SiriNandinii/coding-chapter/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Enumeration
 |  |
 | ------- |
