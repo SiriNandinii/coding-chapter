@@ -106,6 +106,7 @@ Happy Coding! 💻✨
 | [0500-keyboard-row](https://github.com/SiriNandinii/coding-chapter/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/SiriNandinii/coding-chapter/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0796-rotate-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/SiriNandinii/coding-chapter/tree/master/0821-shortest-distance-to-a-character) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/SiriNandinii/coding-chapter/tree/master/1768-merge-strings-alternately) |
 ## Array
@@ -164,6 +165,7 @@ Happy Coding! 💻✨
 | [0661-image-smoother](https://github.com/SiriNandinii/coding-chapter/tree/master/0661-image-smoother) |
 | [0679-24-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/SiriNandinii/coding-chapter/tree/master/0724-find-pivot-index) |
+| [0821-shortest-distance-to-a-character](https://github.com/SiriNandinii/coding-chapter/tree/master/0821-shortest-distance-to-a-character) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
@@ -187,6 +189,7 @@ Happy Coding! 💻✨
 | [0345-reverse-vowels-of-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SiriNandinii/coding-chapter/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/SiriNandinii/coding-chapter/tree/master/0455-assign-cookies) |
+| [0821-shortest-distance-to-a-character](https://github.com/SiriNandinii/coding-chapter/tree/master/0821-shortest-distance-to-a-character) |
 | [1768-merge-strings-alternately](https://github.com/SiriNandinii/coding-chapter/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
