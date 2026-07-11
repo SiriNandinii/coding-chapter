@@ -52,6 +52,7 @@ Happy Coding! 💻✨
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SiriNandinii/coding-chapter/tree/master/0002-add-two-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -96,4 +97,12 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SiriNandinii/coding-chapter/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SiriNandinii/coding-chapter/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SiriNandinii/coding-chapter/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
