@@ -91,6 +91,7 @@ Happy Coding! 💻✨
 | [0037-sudoku-solver](https://github.com/SiriNandinii/coding-chapter/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/SiriNandinii/coding-chapter/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/SiriNandinii/coding-chapter/tree/master/0042-trapping-rain-water) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -104,6 +105,7 @@ Happy Coding! 💻✨
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/SiriNandinii/coding-chapter/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/SiriNandinii/coding-chapter/tree/master/1768-merge-strings-alternately) |
@@ -145,6 +147,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0020-valid-parentheses](https://github.com/SiriNandinii/coding-chapter/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SiriNandinii/coding-chapter/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SiriNandinii/coding-chapter/tree/master/0042-trapping-rain-water) |
 ## Linked List
 |  |
 | ------- |
@@ -175,6 +178,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0022-generate-parentheses](https://github.com/SiriNandinii/coding-chapter/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SiriNandinii/coding-chapter/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SiriNandinii/coding-chapter/tree/master/0042-trapping-rain-water) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -192,4 +196,8 @@ Happy Coding! 💻✨
 | ------- |
 | [0036-valid-sudoku](https://github.com/SiriNandinii/coding-chapter/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SiriNandinii/coding-chapter/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SiriNandinii/coding-chapter/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
