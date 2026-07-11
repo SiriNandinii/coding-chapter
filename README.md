@@ -103,6 +103,7 @@ Happy Coding! 💻✨
 | [2348-number-of-zero-filled-subarrays](https://github.com/SiriNandinii/coding-chapter/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SiriNandinii/coding-chapter/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/SiriNandinii/coding-chapter/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SiriNandinii/coding-chapter/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## String
 |  |
 | ------- |
@@ -267,6 +268,7 @@ Happy Coding! 💻✨
 | [3453-separate-squares-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3454-separate-squares-ii) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/SiriNandinii/coding-chapter/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SiriNandinii/coding-chapter/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Two Pointers
 |  |
 | ------- |
@@ -326,6 +328,7 @@ Happy Coding! 💻✨
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3453-separate-squares-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3454-separate-squares-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SiriNandinii/coding-chapter/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -428,6 +431,7 @@ Happy Coding! 💻✨
 | [2751-robot-collisions](https://github.com/SiriNandinii/coding-chapter/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/SiriNandinii/coding-chapter/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SiriNandinii/coding-chapter/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Backtracking
 |  |
 | ------- |
@@ -608,6 +612,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0812-largest-triangle-area](https://github.com/SiriNandinii/coding-chapter/tree/master/0812-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SiriNandinii/coding-chapter/tree/master/1266-minimum-time-visiting-all-points) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SiriNandinii/coding-chapter/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Counting Sort
 |  |
 | ------- |
