@@ -82,6 +82,7 @@ Happy Coding! 💻✨
 | [0015-3sum](https://github.com/SiriNandinii/coding-chapter/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SiriNandinii/coding-chapter/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SiriNandinii/coding-chapter/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SiriNandinii/coding-chapter/tree/master/0035-search-insert-position) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
@@ -94,6 +95,7 @@ Happy Coding! 💻✨
 | [0016-3sum-closest](https://github.com/SiriNandinii/coding-chapter/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SiriNandinii/coding-chapter/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SiriNandinii/coding-chapter/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SiriNandinii/coding-chapter/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SiriNandinii/coding-chapter/tree/master/0345-reverse-vowels-of-a-string) |
