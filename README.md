@@ -40,6 +40,7 @@ Happy Coding! 💻✨
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/SiriNandinii/coding-chapter/tree/master/0322-coin-change) |
 | [2685-count-the-number-of-complete-components](https://github.com/SiriNandinii/coding-chapter/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -133,6 +134,7 @@ Happy Coding! 💻✨
 | [0238-product-of-array-except-self](https://github.com/SiriNandinii/coding-chapter/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SiriNandinii/coding-chapter/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SiriNandinii/coding-chapter/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/SiriNandinii/coding-chapter/tree/master/0322-coin-change) |
 | [0605-can-place-flowers](https://github.com/SiriNandinii/coding-chapter/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SiriNandinii/coding-chapter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -260,6 +262,7 @@ Happy Coding! 💻✨
 | [0070-climbing-stairs](https://github.com/SiriNandinii/coding-chapter/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SiriNandinii/coding-chapter/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SiriNandinii/coding-chapter/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/SiriNandinii/coding-chapter/tree/master/0322-coin-change) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
