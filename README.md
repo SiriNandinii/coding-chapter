@@ -531,6 +531,7 @@ Happy Coding! 💻✨
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/SiriNandinii/coding-chapter/tree/master/3620-network-recovery-pathways) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SiriNandinii/coding-chapter/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -662,6 +663,7 @@ Happy Coding! 💻✨
 | [3548-equal-sum-grid-partition-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Enumeration
 |  |
 | ------- |
