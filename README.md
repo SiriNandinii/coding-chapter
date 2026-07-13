@@ -703,6 +703,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/SiriNandinii/coding-chapter/tree/master/0869-reordered-power-of-2) |
+| [1291-sequential-digits](https://github.com/SiriNandinii/coding-chapter/tree/master/1291-sequential-digits) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Probability and Statistics
