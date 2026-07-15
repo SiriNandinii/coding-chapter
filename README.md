@@ -108,6 +108,7 @@ Happy Coding! 💻✨
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/SiriNandinii/coding-chapter/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SiriNandinii/coding-chapter/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SiriNandinii/coding-chapter/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/SiriNandinii/coding-chapter/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SiriNandinii/coding-chapter/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -281,6 +282,7 @@ Happy Coding! 💻✨
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SiriNandinii/coding-chapter/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/SiriNandinii/coding-chapter/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SiriNandinii/coding-chapter/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SiriNandinii/coding-chapter/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3454-separate-squares-ii) |
@@ -552,6 +554,7 @@ Happy Coding! 💻✨
 | [2463-minimum-total-distance-traveled](https://github.com/SiriNandinii/coding-chapter/tree/master/2463-minimum-total-distance-traveled) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/SiriNandinii/coding-chapter/tree/master/3225-maximum-score-from-grid-operations) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SiriNandinii/coding-chapter/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SiriNandinii/coding-chapter/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/SiriNandinii/coding-chapter/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -758,5 +761,6 @@ Happy Coding! 💻✨
 ## Number Theory
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SiriNandinii/coding-chapter/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SiriNandinii/coding-chapter/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
