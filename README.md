@@ -108,6 +108,7 @@ Happy Coding! 💻✨
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/SiriNandinii/coding-chapter/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SiriNandinii/coding-chapter/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SiriNandinii/coding-chapter/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SiriNandinii/coding-chapter/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/SiriNandinii/coding-chapter/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SiriNandinii/coding-chapter/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -283,6 +284,7 @@ Happy Coding! 💻✨
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SiriNandinii/coding-chapter/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/SiriNandinii/coding-chapter/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SiriNandinii/coding-chapter/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SiriNandinii/coding-chapter/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SiriNandinii/coding-chapter/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3453-separate-squares-i) |
@@ -378,6 +380,7 @@ Happy Coding! 💻✨
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SiriNandinii/coding-chapter/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SiriNandinii/coding-chapter/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SiriNandinii/coding-chapter/tree/master/3312-sorted-gcd-pair-queries) |
 | [3453-separate-squares-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SiriNandinii/coding-chapter/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -428,6 +431,7 @@ Happy Coding! 💻✨
 | [2196-create-binary-tree-from-descriptions](https://github.com/SiriNandinii/coding-chapter/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SiriNandinii/coding-chapter/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SiriNandinii/coding-chapter/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/SiriNandinii/coding-chapter/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -661,6 +665,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SiriNandinii/coding-chapter/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SiriNandinii/coding-chapter/tree/master/3312-sorted-gcd-pair-queries) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/SiriNandinii/coding-chapter/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Bit Manipulation
 |  |
@@ -683,6 +688,7 @@ Happy Coding! 💻✨
 | [0869-reordered-power-of-2](https://github.com/SiriNandinii/coding-chapter/tree/master/0869-reordered-power-of-2) |
 | [1189-maximum-number-of-balloons](https://github.com/SiriNandinii/coding-chapter/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/SiriNandinii/coding-chapter/tree/master/2833-furthest-point-from-origin) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SiriNandinii/coding-chapter/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Database
 |  |
@@ -701,6 +707,7 @@ Happy Coding! 💻✨
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SiriNandinii/coding-chapter/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SiriNandinii/coding-chapter/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/SiriNandinii/coding-chapter/tree/master/3225-maximum-score-from-grid-operations) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SiriNandinii/coding-chapter/tree/master/3312-sorted-gcd-pair-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -766,6 +773,7 @@ Happy Coding! 💻✨
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/SiriNandinii/coding-chapter/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SiriNandinii/coding-chapter/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SiriNandinii/coding-chapter/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SiriNandinii/coding-chapter/tree/master/3867-sum-of-gcd-of-formed-pairs) |
