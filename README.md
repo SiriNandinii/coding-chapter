@@ -235,6 +235,7 @@ Happy Coding! 💻✨
 | [0997-find-the-town-judge](https://github.com/SiriNandinii/coding-chapter/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/SiriNandinii/coding-chapter/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/SiriNandinii/coding-chapter/tree/master/1207-unique-number-of-occurrences) |
+| [1260-shift-2d-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SiriNandinii/coding-chapter/tree/master/1266-minimum-time-visiting-all-points) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SiriNandinii/coding-chapter/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/SiriNandinii/coding-chapter/tree/master/1288-remove-covered-intervals) |
@@ -610,6 +611,7 @@ Happy Coding! 💻✨
 | [0463-island-perimeter](https://github.com/SiriNandinii/coding-chapter/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/SiriNandinii/coding-chapter/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/SiriNandinii/coding-chapter/tree/master/0661-image-smoother) |
+| [1260-shift-2d-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SiriNandinii/coding-chapter/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/SiriNandinii/coding-chapter/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -651,6 +653,7 @@ Happy Coding! 💻✨
 | [0498-diagonal-traverse](https://github.com/SiriNandinii/coding-chapter/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/SiriNandinii/coding-chapter/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/SiriNandinii/coding-chapter/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1260-shift-2d-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SiriNandinii/coding-chapter/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SiriNandinii/coding-chapter/tree/master/2161-partition-array-according-to-given-pivot) |
