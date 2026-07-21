@@ -165,6 +165,7 @@ Happy Coding! 💻✨
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2942-find-words-containing-character](https://github.com/SiriNandinii/coding-chapter/tree/master/2942-find-words-containing-character) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/SiriNandinii/coding-chapter/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -724,6 +725,7 @@ Happy Coding! 💻✨
 | [0869-reordered-power-of-2](https://github.com/SiriNandinii/coding-chapter/tree/master/0869-reordered-power-of-2) |
 | [1291-sequential-digits](https://github.com/SiriNandinii/coding-chapter/tree/master/1291-sequential-digits) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SiriNandinii/coding-chapter/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Probability and Statistics
 |  |
