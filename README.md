@@ -101,6 +101,7 @@ Happy Coding! 💻✨
 | [0812-largest-triangle-area](https://github.com/SiriNandinii/coding-chapter/tree/master/0812-largest-triangle-area) |
 | [0837-new-21-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0837-new-21-game) |
 | [0869-reordered-power-of-2](https://github.com/SiriNandinii/coding-chapter/tree/master/0869-reordered-power-of-2) |
+| [0877-stone-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SiriNandinii/coding-chapter/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SiriNandinii/coding-chapter/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -231,6 +232,7 @@ Happy Coding! 💻✨
 | [0821-shortest-distance-to-a-character](https://github.com/SiriNandinii/coding-chapter/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/SiriNandinii/coding-chapter/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/SiriNandinii/coding-chapter/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0877-stone-game) |
 | [0929-unique-email-addresses](https://github.com/SiriNandinii/coding-chapter/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/SiriNandinii/coding-chapter/tree/master/0941-valid-mountain-array) |
 | [0997-find-the-town-judge](https://github.com/SiriNandinii/coding-chapter/tree/master/0997-find-the-town-judge) |
@@ -555,6 +557,7 @@ Happy Coding! 💻✨
 | [0392-is-subsequence](https://github.com/SiriNandinii/coding-chapter/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/SiriNandinii/coding-chapter/tree/master/0396-rotate-function) |
 | [0837-new-21-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0837-new-21-game) |
+| [0877-stone-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0877-stone-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SiriNandinii/coding-chapter/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/SiriNandinii/coding-chapter/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SiriNandinii/coding-chapter/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -782,4 +785,8 @@ Happy Coding! 💻✨
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SiriNandinii/coding-chapter/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SiriNandinii/coding-chapter/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SiriNandinii/coding-chapter/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
