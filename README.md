@@ -105,6 +105,7 @@ Happy Coding! 💻✨
 | [1071-greatest-common-divisor-of-strings](https://github.com/SiriNandinii/coding-chapter/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SiriNandinii/coding-chapter/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SiriNandinii/coding-chapter/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1510-stone-game-iv](https://github.com/SiriNandinii/coding-chapter/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/SiriNandinii/coding-chapter/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SiriNandinii/coding-chapter/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/SiriNandinii/coding-chapter/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -563,6 +564,7 @@ Happy Coding! 💻✨
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SiriNandinii/coding-chapter/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SiriNandinii/coding-chapter/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1504-count-submatrices-with-all-ones](https://github.com/SiriNandinii/coding-chapter/tree/master/1504-count-submatrices-with-all-ones) |
+| [1510-stone-game-iv](https://github.com/SiriNandinii/coding-chapter/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SiriNandinii/coding-chapter/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/SiriNandinii/coding-chapter/tree/master/2463-minimum-total-distance-traveled) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SiriNandinii/coding-chapter/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
@@ -789,4 +791,21 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SiriNandinii/coding-chapter/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/SiriNandinii/coding-chapter/tree/master/1510-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SiriNandinii/coding-chapter/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SiriNandinii/coding-chapter/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SiriNandinii/coding-chapter/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SiriNandinii/coding-chapter/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
